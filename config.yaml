@@ -1,0 +1,90 @@
+# ----------------------------------------------------------------------
+# OSINT Monitor config — edit this file, not the code.
+# ----------------------------------------------------------------------
+
+rss:
+  enabled: true
+  # STARTER feeds. Verify each URL resolves, then add your own.
+  # Government press-release feeds are gold here — add the ones you track.
+  feeds:
+    - name: "BBC World"
+      url: "http://feeds.bbci.co.uk/news/world/rss.xml"
+    - name: "Al Jazeera"
+      url: "https://www.aljazeera.com/xml/rss/all.xml"
+    - name: "The Guardian World"
+      url: "https://www.theguardian.com/world/rss"
+    - name: "Reuters World (via Google News)"
+      url: "https://news.google.com/rss/search?q=when:24h+world&hl=en-US&gl=US&ceid=US:en"
+    # - name: "US State Dept (verify URL)"
+    #   url: "https://www.state.gov/rss-feed/press-releases/feed/"
+    # - name: "UK Gov news (verify URL)"
+    #   url: "https://www.gov.uk/search/news-and-communications.atom"
+    # - name: "NATO news"
+    #   url: "https://www.nato.int/cps/en/natohq/news_rss.htm"
+
+gdelt:
+  enabled: true
+  timespan: "1h"        # how far back each run looks
+  max_records: 75       # per query
+  queries:
+    - label: "maritime"
+      query: '(strait OR vessel OR tanker OR naval OR blockade OR "red sea")'
+    - label: "conflict"
+      query: "(airstrike OR offensive OR ceasefire OR shelling OR drone strike)"
+    - label: "geopolitics"
+      query: '(sanctions OR summit OR "security council" OR border clash)'
+
+# --- Phase 3: prediction markets (free, no auth: Polymarket + Manifold) -------
+markets:
+  enabled: true
+  # Only markets whose question contains one of these keywords are kept.
+  # Leave the list empty to keep the top markets by volume regardless of topic.
+  keywords:
+    - war
+    - ceasefire
+    - Iran
+    - Israel
+    - Russia
+    - Ukraine
+    - China
+    - Taiwan
+    - sanctions
+    - strait
+    - nuclear
+    - election
+    - coup
+    - blockade
+  limit: 40           # max markets to keep per run (sorted by volume)
+  min_volume: 0       # ignore illiquid markets below this volume
+
+# --- Signal detection thresholds ---------------------------------------------
+signals:
+  market_swing_threshold: 0.10   # flag a >=10 percentage-point move
+  market_window_hours: 24        # ...measured over this window
+  news_window_hours: 6           # compare last 6h vs the prior 6h
+  news_min_count: 4              # topic must have >= this many items to spike
+  news_ratio: 2.5               # ...and be >= 2.5x the prior window
+
+# --- Phase 2: daily brief (one LLM call/day; free digest if no API key) -------
+brief:
+  # Cheapest good option. Bump to "claude-sonnet-4-6" for richer synthesis.
+  model: "claude-haiku-4-5-20251001"
+  window_hours: 24
+  max_events: 120
+
+# --- Phase 3: maritime AIS (optional; free key from aisstream.io) -------------
+# Runs as a separate bounded collector (scripts/collect_ais.py). Terrestrial
+# coverage is patchy in open water — never read a gap as "no ships."
+ais:
+  enabled: true        # flip to true once you've set AISSTREAM_API_KEY
+  duration_seconds: 60  # how long each collection run listens
+  zones:
+    # bbox = [[lat_min, lon_min], [lat_max, lon_max]]
+    - name: "Strait of Hormuz"
+      bbox: [[25.5, 55.5], [27.2, 57.2]]
+    - name: "Bab-el-Mandeb"
+      bbox: [[12.0, 42.5], [13.8, 44.0]]
+    - name: "Bosphorus"
+      bbox: [[40.9, 28.9], [41.3, 29.2]]
+    - name: "Taiwan Strait"
+      bbox: [[23.0, 118.0], [26.0, 121.5]]
