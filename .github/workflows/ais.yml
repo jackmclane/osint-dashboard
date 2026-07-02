@@ -1,0 +1,33 @@
+name: ais-snapshot
+
+# OPTIONAL. No-ops safely until you set ais.enabled=true in config.yaml AND add
+# the AISSTREAM_API_KEY repo secret. Captures a short vessel snapshot per run.
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 min; each run listens for ~60s
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  ais:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - name: Collect AIS snapshot
+        env:
+          AISSTREAM_API_KEY: ${{ secrets.AISSTREAM_API_KEY }}
+        run: python scripts/collect_ais.py
+      - name: Commit positions
+        run: |
+          git config user.name  "osint-bot"
+          git config user.email "osint-bot@users.noreply.github.com"
+          git add data/osint.db
+          git diff --staged --quiet || git commit -m "ais: snapshot $(date -u +%FT%TZ)"
+          git push

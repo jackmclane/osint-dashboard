@@ -1,0 +1,34 @@
+name: daily-brief
+
+# One LLM call per day. Reads the collected DB, writes data/briefs/, commits it.
+# Requires repo secret ANTHROPIC_API_KEY (Settings -> Secrets -> Actions).
+# Without the secret it still runs and produces the free grouped digest.
+on:
+  schedule:
+    - cron: "0 6 * * *"     # 06:00 UTC daily — tweak to your morning
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - name: Generate brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/make_brief.py
+      - name: Commit brief
+        run: |
+          git config user.name  "osint-bot"
+          git config user.email "osint-bot@users.noreply.github.com"
+          git add data/briefs data/osint.db
+          git diff --staged --quiet || git commit -m "brief: $(date -u +%F)"
+          git push
