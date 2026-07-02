@@ -76,7 +76,7 @@ brief:
 # Runs as a separate bounded collector (scripts/collect_ais.py). Terrestrial
 # coverage is patchy in open water — never read a gap as "no ships."
 ais:
-  enabled: false        # flip to true once you've set AISSTREAM_API_KEY
+  enabled: true        # flip to true once you've set AISSTREAM_API_KEY
   duration_seconds: 60  # how long each collection run listens
   zones:
     # bbox = [[lat_min, lon_min], [lat_max, lon_max]]
