@@ -182,7 +182,29 @@ def probability_at_or_before(
 
 def distinct_market_ids(conn: sqlite3.Connection) -> list[str]:
     return [r[0] for r in conn.execute("SELECT DISTINCT market_id FROM market_history")]
+  
+def latest_markets(conn: sqlite3.Connection) -> list[sqlite3.Row]:
+    """One row per market_id — its most recent snapshot — newest-updated first.
+    Powers the Markets tab list."""
+    return conn.execute(
+        """
+        SELECT mh.* FROM market_history mh
+        INNER JOIN (
+            SELECT market_id, MAX(ts) AS max_ts
+            FROM market_history
+            GROUP BY market_id
+        ) latest ON mh.market_id = latest.market_id AND mh.ts = latest.max_ts
+        ORDER BY mh.ts DESC
+        """
+    ).fetchall()
 
+
+def market_history_series(conn: sqlite3.Connection, market_id: str) -> list[sqlite3.Row]:
+    """Full probability history for one market, oldest first — for trend charts."""
+    return conn.execute(
+        "SELECT * FROM market_history WHERE market_id = ? ORDER BY ts ASC",
+        (market_id,),
+    ).fetchall()
 
 # --------------------------------------------------------------------------- #
 # signals
