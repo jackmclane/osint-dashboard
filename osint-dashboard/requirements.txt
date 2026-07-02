@@ -1,0 +1,15 @@
+# Core (Phase 1)
+feedparser>=6.0
+requests>=2.31
+PyYAML>=6.0
+streamlit>=1.30
+pandas>=2.0
+
+# Phase 2 — daily brief (optional at runtime; only used if ANTHROPIC_API_KEY set)
+anthropic>=0.40
+
+# Phase 3 — AIS collector (optional; only used by scripts/collect_ais.py)
+websockets>=12.0
+
+# Local dev convenience: load .env automatically
+python-dotenv>=1.0
