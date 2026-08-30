@@ -13,8 +13,11 @@ rss:
       url: "https://www.aljazeera.com/xml/rss/all.xml"
     - name: "The Guardian World"
       url: "https://www.theguardian.com/world/rss"
+    # Scoped to geopolitical/conflict/security terms instead of bare "world"
+    # (which matched World Cup, World Series, etc.) and explicitly excludes
+    # the sports/entertainment sections most likely to slip through anyway.
     - name: "Reuters World (via Google News)"
-      url: "https://news.google.com/rss/search?q=when:24h+world&hl=en-US&gl=US&ceid=US:en"
+      url: "https://news.google.com/rss/search?q=when:24h+(geopolitics+OR+conflict+OR+diplomacy+OR+sanctions+OR+military+OR+security)+-sports+-NFL+-NBA+-MLB+-NHL+-soccer+-football+-basketball+-tennis+-olympics&hl=en-US&gl=US&ceid=US:en"
     # - name: "US State Dept (verify URL)"
     #   url: "https://www.state.gov/rss-feed/press-releases/feed/"
     # - name: "UK Gov news (verify URL)"
@@ -30,7 +33,10 @@ gdelt:
     - label: "maritime"
       query: '(strait OR vessel OR tanker OR naval OR blockade OR "red sea")'
     - label: "conflict"
-      query: "(airstrike OR offensive OR ceasefire OR shelling OR drone strike)"
+      # bare "offensive" pulled in sports coverage ("offensive line", etc.)
+      # at the GDELT source level, before it ever reached our own tagger —
+      # phrased so it only matches genuine military-conflict usage.
+      query: '(airstrike OR "military offensive" OR ceasefire OR shelling OR "drone strike")'
     - label: "geopolitics"
       query: '(sanctions OR summit OR "security council" OR border clash)'
 
@@ -64,6 +70,7 @@ signals:
   news_window_hours: 6           # compare last 6h vs the prior 6h
   news_min_count: 4              # topic must have >= this many items to spike
   news_ratio: 2.5               # ...and be >= 2.5x the prior window
+  correlation_enabled: true      # flag when a market_swing + news_spike share a topic
 
 # --- Phase 2: daily brief (one LLM call/day; free digest if no API key) -------
 brief:
@@ -76,7 +83,7 @@ brief:
 # Runs as a separate bounded collector (scripts/collect_ais.py). Terrestrial
 # coverage is patchy in open water — never read a gap as "no ships."
 ais:
-  enabled: true        # flip to true once you've set AISSTREAM_API_KEY
+  enabled: false        # flip to true once you've set AISSTREAM_API_KEY
   duration_seconds: 60  # how long each collection run listens
   zones:
     # bbox = [[lat_min, lon_min], [lat_max, lon_max]]
@@ -88,3 +95,56 @@ ais:
       bbox: [[40.9, 28.9], [41.3, 29.2]]
     - name: "Taiwan Strait"
       bbox: [[23.0, 118.0], [26.0, 121.5]]
+
+# --- ADS-B aircraft tracking (optional; free — OpenSky Network) --------------
+# Same chokepoint idea as `ais:` above, aviation instead of maritime. Anonymous
+# access works but OpenSky heavily rate-limits/blocks cloud & datacenter IPs
+# (including GitHub Actions runners) — a free account (OPENSKY_CLIENT_ID/
+# OPENSKY_CLIENT_SECRET in .env) helps but isn't a guarantee. If GitHub Actions
+# comes back empty on a schedule, run scripts/collect_adsb.py locally instead.
+#
+# NOTE: bbox format here is FLAT [lamin, lomin, lamax, lomax] (OpenSky's
+# convention) — NOT the nested [[lat,lon],[lat,lon]] pairs used by ais.zones
+# above (aisstream's convention). Same four chokepoints, converted.
+adsb:
+  enabled: true
+  zones:
+    - name: "Strait of Hormuz"
+      bbox: [25.5, 55.5, 27.2, 57.2]
+    - name: "Bab-el-Mandeb"
+      bbox: [12.0, 42.5, 13.8, 44.0]
+    - name: "Bosphorus"
+      bbox: [40.9, 28.9, 41.3, 29.2]
+    - name: "Taiwan Strait"
+      bbox: [23.0, 118.0, 26.0, 121.5]
+
+# --- SEC EDGAR full-text search (optional; free, no key) ---------------------
+# Capital-markets signal: 8-Ks, 13Ds etc. matching phrases you care about.
+# SEC requires a real, descriptive User-Agent (their fair-access policy blocks
+# generic ones) — see https://www.sec.gov/os/webmaster-faq#developers.
+edgar:
+  enabled: false
+  user_agent: "OSINT Monitor you@example.com"   # REQUIRED — put a real contact here
+  forms:
+    - "8-K"
+    - "SC 13D"
+    - "SC 13D/A"
+  keywords:
+    - "material cybersecurity incident"
+    - "going concern"
+    - "export control"
+    - "sanctions"
+    - "definitive merger agreement"
+  lookback_hours: 24
+  max_records: 10       # per keyword, per run
+
+# --- Sanctions / denied-party list diff (optional; free, no key) -------------
+# Flags NEW additions to the Commerce/State/Treasury consolidated screening
+# list (OFAC SDN, BIS Entity List, State Dept debarred list, etc). This is a
+# multi-MB file that only updates once a day — NOT part of the 30-min
+# collect.py loop. Run scripts/collect_sanctions.py on its own low-frequency
+# schedule (see .github/workflows/sanctions.yml). First run just seeds the
+# baseline silently; diffs start showing up from the second run onward.
+sanctions:
+  enabled: true
+
