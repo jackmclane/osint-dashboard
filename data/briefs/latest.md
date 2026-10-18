@@ -1,6 +1,12 @@
-# Daily Brief — 2026-10-17 10:22 UTC
+# Daily Brief — 2026-10-18 10:38 UTC
 
 ## ⚠️ Signals to watch
+- **📈 'maritime' spike: 78 items in 6h (was 3)** — 78 events tagged 'maritime' in the last 6h vs 3 in the prior 6h.
+- **📈 'geopolitics' spike: 79 items in 6h (was 1)** — 79 events tagged 'geopolitics' in the last 6h vs 1 in the prior 6h.
+- **📈 'conflict' spike: 7 items in 6h (was 2)** — 7 events tagged 'conflict' in the last 6h vs 2 in the prior 6h.
+- **▼ 16pt swing: War in Iran goes into Berserk mode before end of 2027?** — Manifold: 46% → 30% over ~24h
+- **▼ 22pt swing: Major Iran escalation this weekend?** — Manifold: 35% → 13% over ~24h
+- **▼ 22pt swing: Major Iran escalation this weekend?** — Manifold: 35% → 13% over ~24h
 - **📈 'maritime' spike: 77 items in 6h (was 2)** — 77 events tagged 'maritime' in the last 6h vs 2 in the prior 6h.
 - **📈 'conflict' spike: 16 items in 6h (was 1)** — 16 events tagged 'conflict' in the last 6h vs 1 in the prior 6h.
 - **📈 'geopolitics' spike: 77 items in 6h (was 2)** — 77 events tagged 'geopolitics' in the last 6h vs 2 in the prior 6h.
@@ -10,160 +16,169 @@
 - **▼ 11pt swing: Will One Nation’s primary vote share in the next federal election exceed 15%?** — Manifold: 67% → 56% over ~24h
 - **📈 'maritime' spike: 53 items in 6h (was 2)** — 53 events tagged 'maritime' in the last 6h vs 2 in the prior 6h.
 - **▼ 14pt swing: Saudi-Houthi ceasefire agreement before November 1?** — Manifold: 28% → 14% over ~24h
-- **▲ 11pt swing: Will published research show decreases in right-wing bot activity due to Russian data infr** — Manifold: 41% → 52% over ~24h
-- **📈 'policy' spike: 8 items in 6h (was 3)** — 8 events tagged 'policy' in the last 6h vs 3 in the prior 6h.
-- **📈 'conflict' spike: 4 items in 6h (was 1)** — 4 events tagged 'conflict' in the last 6h vs 1 in the prior 6h.
-- **📈 'geopolitics' spike: 83 items in 6h (was 4)** — 83 events tagged 'geopolitics' in the last 6h vs 4 in the prior 6h.
-- **▼ 33pt swing: Saudi-Houthi ceasefire agreement before November 1?** — Manifold: 50% → 17% over ~24h
-- **▼ 20pt swing: Will Russell Brand be found not guilty of all charges in his current Southwark Crown Court** — Manifold: 50% → 30% over ~24h
 
 ## By region
-### Europe (35)
-- [Trump Waives Key Russia-Related Sanctions and Tariffs Before New Law Takes Effect - Modern Diplomacy](https://news.google.com/rss/articles/CBMivAFBVV95cUxPc1hlUnJoa3VaZGpFeVZ5T2lKVjFMTmJWSzh0SkppaTFIUV9hV1lGcFRuWUFYUlN0X2lVOVJvcFJZTjZaOTQ0SkJySm90bkw4Q293dTB3OFVYMEtrcTRHVWpZR0puR0lXYndKbGhZNDBZM3hZa3dIU1VSRmtvVENzdlN1aHlQMF94dndUc3p2aXdiRDNXd3dJdjV3TjBjU0FhR3YzdTBQcmRyZ2hkZ0dTSFBpbEJuWkx6cDl3dQ?oc=5) — *Reuters World (via Google News)*
-- [Russian Attacks Kill 8 in Ukraine , Cut Power to Over 1 Million](https://www.chronicle.lu/category/international-news/64066-russian-attacks-kill-8-in-ukraine-cut-power-to-over-1-million) — *GDELT/chronicle.lu*
-- [A winter of hunger looms for residents trapped in Russian - occupied city in Ukraine](http://www.dailyadvance.com/news/national/a-winter-of-hunger-looms-for-residents-trapped-in-russian-occupied-city-in-ukraine/article_17451c72-e523-5a0f-8710-2d006681efa8.html) — *GDELT/dailyadvance.com*
-- [A winter of hunger looms for residents trapped in Russian - occupied city in Ukraine](https://www.yakimaherald.com/news/nation_and_world/nation/a-winter-of-hunger-looms-for-residents-trapped-in-russian-occupied-city-in-ukraine/article_d7cc9db8-06bc-5a40-b451-bb3ee9daae3e.html) — *GDELT/yakimaherald.com*
-- [Russian Attacks Kill 8 in Ukraine , Cut Power to Over 1 Million](https://www.chronicle.lu/category/international/64066-russian-attacks-kill-8-in-ukraine-cut-power-to-over-1-million) — *GDELT/chronicle.lu*
-- [Russia strikes Ukraine grid amid clash](https://nagalandpost.com/russia-strikes-ukraine-grid-amid-clash/) — *GDELT/nagalandpost.com*
-- [A winter of hunger looms for residents trapped in Russian - occupied city in Ukraine](http://www.cecildaily.com/ap/nation/a-winter-of-hunger-looms-for-residents-trapped-in-russian-occupied-city-in-ukraine/article_3da7ca45-82c5-5915-8511-b1fe30daf367.html) — *GDELT/cecildaily.com*
-- [Trump Waives New Sanctions Against Russia | News Radio 690 KTSM](https://ktsmradio.iheart.com/content/2026-10-17-trump-waives-new-sanctions-against-russia/) — *GDELT/ktsmradio.iheart.com*
+### Unsorted (29)
+- [Former US diplomat to speak at free Springfield program - The State Journal-Register](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNlFEZ1hRSGVlUEZoVlo5Q3J4NXVwSnNQUGtwV3pmcWdHdThHMkZkY1hKY045VUIyejFDbnNmOFItN0xKd2dSUnZzYkV2TEE0WUVQQ2NOdHFBYTFBYzF3Z21PQzU0bDVEeGx6TGJ2R1FncVptbXlSREZjdWFwSTZZODdvYmxKSGtHMnUxWFY4V2ppZWt4YzlTdldCeFdEZVdsUVZfc0VsYjFfa3ZTQTRkdEtNdHBDQUE5SFZlRGxEMVZLQXB5blA4c3c2aWFEc3NvVmJOUVRTeEZyckVJaENMTF9mYmEwREZFY0Jvbw?oc=5) — *Reuters World (via Google News)*
+- [Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’](https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss) — *Al Jazeera*
+- [October Lights for Peace flag honors Navy Seabee Frederick Hall - SouthCoastToday.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2xxaHVfMGpEWDVnWmMyazdxcm5MaWNzeF9yR1JzekZuOGVhbjdVOGgxMllKemZsRWViTU5qM0ZxUFBNLXRKTjFqcHZDa1pWWk53UkxCYk5LakZ2ckh6dVdRdHZvRkIyeWpRVjhuNW03U0pBRXk2QVUtOFAyejgya1ZMSUZqWHJOcG1qTFRYV1FEbEt6bk1jb003VUhpcU9LNDFBR1pQUTAtcVNaM2poM3owbmdVRVlEOHlhMzllVTFPTXhp?oc=5) — *Reuters World (via Google News)*
+- [25-year-old Israeli founder sells stealth AI startup for up to $35 million without raising capital - CTech](https://news.google.com/rss/articles/CBMiaEFVX3lxTE50ckRIdTFoVnpXd05LbkdWRTliTko4R3N4QUZnVGl6MzdUVFg5bUZOdlNDUmtCNDFVdEozeEp1QkVYWllPZ0UzMGhnTTA5emZHM29Ld2JNUHFSSURMVXFSenU1U1ZVV0Vs?oc=5) — *Reuters World (via Google News)*
+- [Two People Killed in Arab Coalition AH - 6i Military Helicopter Crash](https://sputnikglobe.com/20261018/two-people-killed-in-arab-coalitions-ah-6i-military-helicopter-crash---spokesman-1124894234.html) — *GDELT/sputnikglobe.com*
+- [‘No Kings’ protests spread across the US ahead of midterm elections](https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss) — *Al Jazeera*
+- [‘Young protesters across Europe share grievances and tactics’](https://www.aljazeera.com/video/newsfeed/2026/10/18/young-protesters-across-europe-share-grievances-and?traffic_source=rss) — *Al Jazeera*
+- [Isaac Herzog meets with Bahrain foreign minister at CICA summit hosted by Azerbaijan - The Jerusalem Post](https://news.google.com/rss/articles/CBMiXEFVX3lxTE93cGlQOC03Y3dHZk8wNWNTRm96VHhTZWgzQ1Y0c3FqVmZ5Zmk2MmlWelh6VnQ5UDRxc3pvQjBiQmEyNElxTTUwWEJ1S0duS1BscDFNd0NoNldTTWhV?oc=5) — *Reuters World (via Google News)*
 
-### Unsorted (22)
-- [Health Diplomacy Spiral: How Integrated, Digital Health Systems Reshape Cross-Border Cooperation - Bioengineer.org](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV0Z3Z0xvSVBOOHQtcS16Z1JKSXRCdHdSLUlyZFd1ZlNjM095eE83QkE5Z0hsYTd4WGo1TlRIUkJJaWxhYVRwVjFGQllwbUtnOEtkTzBjVWhQREg4MEYwbTBzMW1weW5YbWc0NTNmM18tLURCT0ZfcEd2akY5c0JaRDJwQmZRSXRvQlN1RzhHQzV3ODRPU2pBM1pXa3NXM3gyT3BSNzl6SmkxZ1BHRkNMLWJmRW9hQmdQLWpv?oc=5) — *Reuters World (via Google News)*
-- [Cae en México  El Ingeniero  del narcotráfico](https://actualidad-rt.com/actualidad/632921-cae-mexico-ingeniero-narcotrafico) — *GDELT/actualidad-rt.com*
-- [Nyomulnak előre az oroszok a fronton : elfoglalták az ukrán erődvárost , az egyik legfontosabb védelmi pontot](https://www.economx.hu/kulfold/2026/10/17/dobropillja-ukrajnai-haboru-oroszorszag-vlagyimir-putyin-erodvaros/) — *GDELT/economx.hu*
-- [Битка за пехар - Гајовић : Спремни да се реванширамо](https://zurnal.politika.rs/scc/clanak/259242/odbojka/super-liga/bitka-za-pehar-gajovic-spremni-da-se-revansiramo) — *GDELT/zurnal.politika.rs*
-- [Трамп заморозил « закон Грэма » об антироссийских санкциях CentralAsia . media](https://centralasia.media/news:2552574/) — *GDELT/centralasia.media*
-- [Les incendies en Indonésie asphyxient lAsie du Sud - Est , le niveau dalerte maximal déclenché dans une partie de la région](https://www.tf1info.fr/international/les-incendies-en-indonesie-asphyxient-l-asie-du-sud-est-le-niveau-d-alerte-maximal-declenche-dans-une-partie-de-la-region-2470476.html) — *GDELT/tf1info.fr*
-- [Magyar Péter : Jó eséllyel eltörlik a migrációs büntetést és valamit vissza is kapunk belőle](https://www.economx.hu/belfold/2026/10/17/magyar-peter-migracios-buntetest-napi-egymillio-euro/) — *GDELT/economx.hu*
-- [В Конгресс США внесли законопроект о запрете дизельной сделки с Россией CentralAsia . media](https://centralasia.media/news:2552584/) — *GDELT/centralasia.media*
+### China (12)
+- [( وسائط متعددة ) وزير الخارجية الإيراني يقول إن طهران مستعدة للحوار القائم على الاحترام المتبادل والضمانات الموثوقة](http://arabic.news.cn/20261018/55a359c999784f6a81b46d068f12a571/c.html) — *GDELT/arabic.news.cn*
+- [非洲真的在  裂开 ！ 我们正在见证海洋诞生前的样子 …… |地幔|大陆|裂谷|地壳](https://www.163.com/dy/article/L9HKEOGD05118405.html) — *GDELT/163.com*
+- [男子冲动吞下12厘米筷子 ， 35年后取出 ， 筷子整体几乎完好无损 ， 医生提醒](https://baijiahao.baidu.com/s?id=1879373152908579568) — *GDELT/baijiahao.baidu.com*
+- [争了30多年的红海出海口 ， 又要引发战争 ？](https://news.ifeng.com/c/8xKAwwERmUl) — *GDELT/news.ifeng.com*
+- [2026带你回家⑤丨分离77载 ， 断联38年 ， 七旬老人终圆寻亲梦](https://baijiahao.baidu.com/s?id=1879372836672212495) — *GDELT/baijiahao.baidu.com*
+- [泽连斯基 ： 乌克兰境内  星链  被限速是故意的|基辅|莫斯科|华盛顿](https://www.163.com/dy/article/L9HHDJRC0514BQ68.html) — *GDELT/163.com*
+- [德苏从同志变死敌 ， 其间发生了什么 ？ - 博客](https://blog.wenxuecity.com/myblog/70246/202610/11884.html) — *GDELT/blog.wenxuecity.com*
+- [下周外盘看点丨欧美PMI或搅动加息格局 Meta特斯拉最新财报亮相 _ 东方财富网](https://finance.eastmoney.com/a/202610183899104432.html) — *GDELT/finance.eastmoney.com*
 
-### Cyprus (6)
-- [ΓεΣΥ : Ανοίγει ο δρόμος για ηλικιακό όριο στους παρόχους](https://www.philenews.com/kipros/koinonia/article/1783463/gesi-anigi-o-dromos-gia-ilikiako-orio-stous-parochous-ti-provlepoun-dio-nomoschedia-gia-entaxi-neon-epangelmation-asfalistikes-eteries-ke-prostima-eos-e600-000/) — *GDELT/philenews.com*
-- [Αδιέξοδο στον προϋπολογισμό , διαφωνίες για ενέργεια και στήριξη στην Ουκρανία - Τα συμπεράσματα της Συνόδου Κορυφής των « 27 »](https://economytoday.sigmalive.com/ta-symperasmata-tis-synodoy-koryfis-ton-27-adieksodo-ston-proypologismo-diafonies-gia-energeia-kai-stiriksi-stin-oykrania/) — *GDELT/economytoday.sigmalive.com*
-- [Εμπλοκή στο « Αφροδίτη »: Τριπλάσια τέλη αγωγού ζητούν οι εταιρείες](https://www.sigmalive.com/news/energia/1333755/emploki-sto-afroditi-triplasia-teli-aghoghou-zitoun-oi-etairies) — *GDELT/sigmalive.com*
-- [Έτσι απάντησε η Google στον « Ωκεανό » Τραμπ - « Δεν ήταν η χειρότερή μου ιδέα »](https://www.sigmalive.com/news/international/1333749/etsi-apantise-i-google-ston-okeano-tramp-den-itan-i-kheiroteri-moy-idea) — *GDELT/sigmalive.com*
-- [Φον ντερ Λάιεν : Δεν υπάρχει μαγική λύση για την ενέργεια](https://economytoday.sigmalive.com/fon-nter-laien-den-yparxei-magiki-lysi-gia-tin-energeia/) — *GDELT/economytoday.sigmalive.com*
-- [Τέσσερις Κύπριοι επιχειρηματίες φέρονται ως εγκέφαλοι στο κόλπο των €115 εκατ . με τα iPhone](https://dialogos.com.cy/tesseris-kyprioi-epicheirimaties-ferontai-os-egkefaloi-sto-kolpo-ton-e115-ekat-me-ta-iphone/) — *GDELT/dialogos.com.cy*
+### Europe (11)
+- [Russia: US sanctions waiver benefits both sides - VOV World](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUVFyTmQ0cTJUcGp3SXJkeXA2R0xWaWxWNWxlREVmNEZqOTA3ajBZbk5FVHhkTVB6ekN4QmZnNlpiRkJGeEFzekluSE1sT0ZfXzRRbzhkU0UwV1BuSkJJQXlOMk1lM1FkbU8xYUZIa25UeDFlUWMzZC1zamtSbzI5cWJFV2Uwby1HaTFSSA?oc=5) — *Reuters World (via Google News)*
+- [Whole streets in Paris ‘devastated’ by protests, says mayor, as France demonstrations continue – Europe live](https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news) — *The Guardian World*
+- [Ukraine Invasion Day 1 , 697 : Trump Desperate Political Theater doesnt profit the US](https://www.dailykos.com/stories/2026/10/17/800113851/community/1697/) — *GDELT/dailykos.com*
+- [Photos: Protests across France spiral into looting, blazes and clashes](https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss) — *Al Jazeera*
+- [Rubio: Trump Could Take 60 Days to Decide on New Russia Sanctions - Modern Diplomacy](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZm4ycExBUVJBR1NoQk5vaW9adXBSZVk3MnlBd2VNY0cxUXpvcUV4UUR5bzlmYkJ3aThxc0RwNFpnUHg5aXdWTThRT2NwUk4yUGhoU01DZUd6WDlMUDM1d3dqMThqOGpQMmtsUi04MHZKaS0xYU1heUlWNzc5UXR1c2M0c1ZNdXNKSE1ud1lvZEpmM21aR3BCb1JtM1ZfNm9MSWFySWR3?oc=5) — *Reuters World (via Google News)*
+- [Leipzig Airport Breach Tests Germany’s Security Nerves - EU Today](https://news.google.com/rss/articles/CBMif0FVX3lxTE1rTnRWTDg3SDFWXy1tQ2MyWEk2dnhMQTJ6U3ZRV3hyTU8tNjZyWUN3cFdBSFc3dFNmanlwSl9UcjdNc3hQNEYxZ1VkQllMdDNqekJqelEtSklLRkJ0SFNVdFVMVkhlUkszd0VJcFplVzQyNkpBbHd5dWI4blFWS28?oc=5) — *Reuters World (via Google News)*
+- [Rubio explains why Trump waived sanctions against Russia, says administration needs time to assess impact - Українська правда](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRY0d2ZU1uRzV5YzFhTmI1aWgySllKczNvdmJaeW4yNkhXOVRoX000VEN6d2JfQW9fcWtRa2cxNFZzMVhqcXFaY3h6a2FEckxWNG1DbVF1TVBGc3VtY1NCeFNMRnjSAXBBVV95cUxPeC1KLWQ5TUdDTUNPbjJvZEdQSlZpSnYybWIzazYwVkxtN0lnQUtiY1NIcmdvV25BNERDd1BieVZGUWtjUTV2OXJvTnhIajZDVVRPbDd2Yk9wT0JoYXFIWWNaTlZVUEk4ODZSd3NxTENI?oc=5) — *Reuters World (via Google News)*
+- [Zelenskyy warns US’ Russia sanctions relief could reward Putin and fuel more attacks - TRT World](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RM0JLeVhiaTd5NS14MEYwQUMydFlVNk9VeVExWjgwYUpta3JoNF8xRTNtZjRuQzNZYTJJblBNOEVCaUMyekE3MU1WcmJMYmZrWXlIS0ZjRkM?oc=5) — *Reuters World (via Google News)*
 
-### United States (5)
-- [An American pope brings American - style governance to the Vatican , even in a health crisis](https://abcnews.com/US/wireStory/american-pope-brings-american-style-governance-vatican-health-137341244) — *GDELT/abcnews.com*
-- [Italy launches probe against Israeli defense minister](http://www.bignewsnetwork.com/news/279380810/italy-launches-probe-against-israeli-defense-minister) — *GDELT/bignewsnetwork.com*
-- [Douglas Cohn and Eleanor Clift : Deal to release Russian diesel oil just a gift to Putin](http://www.dailyadvance.com/opinion/editorial_columnists/douglas-cohn-and-eleanor-clift-deal-to-release-russian-diesel-oil-just-a-gift-to/article_2664127b-6ef7-5a5e-9fc5-695e3b6e4b08.html) — *GDELT/dailyadvance.com*
-- [Le Pen quer pôr França em rota de colisão com a UE antes das presidenciais de 2027](https://pt.euronews.com/2026/10/17/le-pen-quer-por-franca-em-rota-de-colisao-com-a-ue-antes-das-presidenciais-de-2027) — *GDELT/pt.euronews.com*
-- [CBUAE , Monetary Authority of Singapore discuss cooperation in digital payments , green finance](http://www.bignewsnetwork.com/news/279380819/cbuae-monetary-authority-of-singapore-discuss-cooperation-in-digital-payments-green-finance) — *GDELT/bignewsnetwork.com*
+### Middle East (8)
+- [US military aid to Israel must be conditioned: California governor - TRT World](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNzM4SjlOZno0R3NWUlM0LXc3QWxkbDVrMXZORC1ubHJ6WUFpYmlMWGtfSXNyUXRQWmtqckVfRDEyRDFjWm03VEl0UXhPTWxXMHNtbzl1V05vZVVXUTBHSEFHUjNUQ0swdFZBblVZbkZUcDJNUzZNS0xLNm9WWlFFRmJNS0JBY1Nad0p2aEpoMFA2N0UzbTFJMEltbUNZek5EeUxGZWRqUV9YMExja2ZzQmdabWkxNHVvVjFOdW1SYUV2aDhlQ1NPZzFHRV96MWR6dXhRbHZQdHpRajR1NWtNSDRjNV9pTmdQbWJv?oc=5) — *Reuters World (via Google News)*
+- [Yemeni foreign minister: Iran is a party to the war, and those who arm the Houthis cannot act as mediators - アラブニュース](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOd2hBa1liU2xEbXhQM05HZkUyOHUzUFZITllNcXlEbzVmaEM2VDF1dHpKSG5qN09EV2lLc0xVV2tpeFhDdDctaTktcjNSODFBTXR0ckdVbklKc2dIY2pselBBRmJCbkR1Sy1uek5NQUtlOUVqd0RwWmZTYjRiX19mOFBFZmtpbzJ2eGsxcHpLT3JSclAzbTlvU3RRdFlSV1I0UnlOeUFWWmZxU01JMU5JWGtmbnBjYjV4UVVIVV9FeGprTUYwNDFqQk9vYnlMVllCMDBWMF9TYWRnUTFUR21YU3J3eFdGNmM?oc=5) — *Reuters World (via Google News)*
+- [Iran's New Defense Minister Vows to Expand Military Capabilities - Kurdistan24](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1VEN3pVNGsxMkZIZGZxVHZXWXM5UXg4bmFCZXdrVkxmWXE1SXpKdEdFUlpyeWg2QzQ0OHdMeXpBS1RtUHhqQTJ2bElmRlRFUmJGMm5yMktBS0NGdEV3eDBabE5PWjN6S0tYaV9pRTMtMzdiV2pYODE2SngyYnFyOWpoS3l6NDB5R1dlMUJjVy1sSnkzcmxnLUZxQUU1WFdpUVRMUS1ueGpHbUU?oc=5) — *Reuters World (via Google News)*
+- [Mistero sulla superpetroliera carica di oltre due milioni di barili esplosa a Hormuz](https://www.zazoom.it/2026-10-18/mistero-sulla-superpetroliera-carica-di-oltre-due-milioni-di-barili-esplosa-a-hormuz/19815143/) — *GDELT/zazoom.it*
+- [California governor says US military aid to Israel must be conditioned - Anadolu Ajansı](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzBIUWMzblhpeVhhWXFJV3V2NGZSLWl3TC16aXhmaGxQajh2X0ZwanZnMVpKeDZHN3dJOTJJa2RZX0RXTy1QQ0Vmd1BSTHdYRjVMODlwS0pCYXkxRl9VS09IUmxGeVYzOE1aMFZsVzBtczRpM2xmSWhfM181WnowV0VmTnpRenZYUElzZUUzRXZYbnJWNHJzUXoxMHY0N0pZU3NiN1ZsZkVGNGRtWVdGVGJHOWdUUQ?oc=5) — *Reuters World (via Google News)*
+- [Why Iran-US negotiations keep failing](https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss) — *Al Jazeera*
+- [Unity and solidarity; a strategic necessity for Iran's security and territorial integrity - www.taghribnews.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNMWR4Z2tCemhGYkVQZ3owWXNoVnlHM3k4ZzhraldqRVFRTlljLUhKdHFUQUl0T0IxLTM3eVhjTlhmaWMxa0hQZUtVYksxOEQ3Y1hwV0VkVDdVWEtsZTJSMy1kb19FakhUZEpreEkxZ1RXME5tVXNTYmdDUlZzcTFOeTUzbVlXMjBZZEg5MnduZWVhd0lfYjdpSjFrLWtEUjVsSGJKTFpZWWZ6VFk5dGVmQUMwQnRCUmFhTEV6RkNWUkp1cVEwdTZNRzNzdEw?oc=5) — *Reuters World (via Google News)*
+- [Israel’s ties with Europe are fraying. Can its election change that?](https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss) — *Al Jazeera*
 
-### Greece (4)
-- [Υπόθεση « Midas »: Επιχείρηση της Ευρωπαϊκής Εισαγγελίας για απάτη 114 εκατ . ευρώ στον ΦΠΑ - Έρευνες και στην Ελλάδα](https://e-thessalia.gr/ypothesi-midas-epicheirisi-tis-eyropaikis-eisaggelias-gia-apati-114-ekat-eyro-ston-fpa-ereynes-kai-stin-ellada/) — *GDELT/e-thessalia.gr*
-- [« Ιστορική στιγμή »: Η Ρωσία πανηγυρίζει για την αναστολή κυρώσεων από τον Τραμπ](https://www.inewsgr.com/351/istoriki-stigmi-i-rosia-panigyrizei-gia-tin-anastoli-kyroseon-apo-ton-trab.htm) — *GDELT/inewsgr.com*
-- [Ρωσία : Ιστορική η αναστολή κυρώσεων του Τραμπ , λέει σύμβουλος του Πούτιν](https://athina984.gr/2026/10/17/rosia-istoriki-i-anastoli-kyroseon-toy-tramp-leei-symvoylos-toy-poytin/) — *GDELT/athina984.gr*
-- [Super League : « Μάχη » στο Αγρίνιο , ντέρμπι στην Τούμπα](https://athina984.gr/2026/10/17/machi-sto-agrinio-ntermpi-stin-toympa/) — *GDELT/athina984.gr*
+### Spain (7)
+- [La cuenca del Lérez en jaque : el reto de garantizar el agua ante la sequía](https://www.diariodepontevedra.es/articulo/pontevedra/cuenca-lerez-jaque-reto-garantizar-agua-sequia/202610180912481472658.html) — *GDELT/diariodepontevedra.es*
+- [La gent es va tornar boja : 25 anys del programa que va capgirar la televisió](https://diumenge.ara.cat/diumenge/gent-tornar-boja-25-anys-programa-capgirar-televisio_130_5864238.html) — *GDELT/diumenge.ara.cat*
+- [Reunió más de 100 . 000 botellas de plástico y construyó con ellas una isla flotante con casa y estanques en el Caribe mexicano](https://www.vozpopuli.com/indux/reunio-mas-de-100000-botellas-de-plastico-y-construyo-con-ellas-una-isla-flotante-con-casa-y-estanques-en-el-caribe-mexicano.html) — *GDELT/vozpopuli.com*
+- [Contendientes](https://www.hoy.es/xlsemanal/firmas/cartas-lector/lorenzo-silva-contendientes-20261012120535-ntrc.html) — *GDELT/hoy.es*
+- [Ocho detenidos y tres toneladas de hachís incautados de una narcolancha en Huelva](https://www.larazon.es/andalucia/ocho-detenidos-tres-toneladas-hachis-incautados-narcolancha-huelva_202610186ad47a696e8df44596b50cfa.html) — *GDELT/larazon.es*
+- [El pueblo empedrado de Tarragona ideal para recorrer a pie donde comer la mejor  clotxa : tiene un castillo templario medieval del siglo XII , casas colgantes y un mirador espectacular sobre el Ebro](https://www.vozpopuli.com/viajes/el-pueblo-empedrado-de-tarragona-ideal-para-recorrer-a-pie-donde-comer-la-mejor-clotxa-tiene-un-castillo-templario-medieval-del-siglo-xii-casas-colgantes-y-un-mirador-espectacular-sobre-el-ebro.html) — *GDELT/vozpopuli.com*
+- [MOAB : la  madre de todas las bombas  con la que EEUU podría buscar una  salida  a la guerra en Irán](https://www.vozpopuli.com/internacional/moab-la-madre-de-todas-las-bombas-con-la-que-eeuu-podria-buscar-una-salida-a-la-guerra-en-iran.html) — *GDELT/vozpopuli.com*
 
-### Germany (4)
-- [Prozračna voda Trebišnjice udvostručava lepotu Trebinja](https://www.dw.com/sr/trebinje-mediteran-bez-mora/a-79657430) — *GDELT/dw.com*
-- [В Конгресс внесен законопроект против дизельной сделки с РФ](https://www.dw.com/ru/v-kongresse-ssa-predstavili-zakonoproekt-protiv-dizelnoj-sdelki-trampa-i-putina/a-79685926) — *GDELT/dw.com*
-- [Russland - Sanktionen auf Eis : Wie sich Trump Putin weiter annähert](https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html) — *GDELT/tagesschau.de*
-- [Reiseziele 2027 : Acht Geheimtipps werden immer beliebter](https://www.bild.de/leben-wissen/reisen/reiseziele-2027-acht-geheimtipps-werden-immer-beliebter-6accd74a1c1b22b7c031b715) — *GDELT/bild.de*
+### Russia (6)
+- [Рубио объяснил , почему США заключили сделку с Россией по дизелю](https://news.mail.ru/politics/72761990/) — *GDELT/news.mail.ru*
+- [ВС РФ нанесли удары по объектам логистики и морским судам на Украине | Москва](https://fedpress.ru/news/77/society/3456340) — *GDELT/fedpress.ru*
+- [Экс - премьера Финляндии Марин осудили после громкого заявления о России | Северная Европа](https://fedpress.ru/news/northern-europe/society/3456337) — *GDELT/fedpress.ru*
+- [Российские военные поразили сухогруз и безэкипажный катер ВСУ в Черном море](https://aif.ru/society/army/rossiyskie-voennye-porazili-suhogruz-i-bezekipazhnyy-kater-vsu-v-chernom-more) — *GDELT/aif.ru*
+- [Айфоны и духи . Рыбаки в Ормузском проливе получили неожиданный улов](https://aif.ru/incidents/ayfony-i-duhi-rybaki-v-ormuzskom-prolive-poluchili-neozhidannyy-ulov) — *GDELT/aif.ru*
+- [В Саудовской Аравии разбился военный вертолет , погибли два летчика](https://aif.ru/incidents/v-saudovskoy-aravii-razbilsya-voennyy-vertolet-pogibli-dva-letchika) — *GDELT/aif.ru*
 
-### Russia (4)
-- [В Конгресс США внесли законопроект о запрете сделки по дизелю с Россией](https://expert.ru/news/v-kongress-ssha-vnesli-zakonoproekt-o-zaprete-sdelki-po-dizelyu-s-rossiey) — *GDELT/expert.ru*
-- [ВС РФ поразили электроподстанцию в Житомире , которая снабжала ВПК Украины . Новости . Первый канал](https://www.1tv.ru/news/2026-10-17/556299) — *GDELT/1tv.ru*
-- [Дональд Трамп отказался от части рестрикций по закону о санкциях против РФ](https://expert.ru/news/donald-tramp-otkazalsya-ot-chasti-restriktsiy-po-zakonu-o-sanktsiyakh-protiv-rf) — *GDELT/expert.ru*
-- [В РФ первые фазы испытаний прошел уникальный препарат для лечения рака печени . Новости . Первый канал](https://www.1tv.ru/news/2026-10-17/556304) — *GDELT/1tv.ru*
+### Greece (5)
+- [Νικόλαος Βότσης : Η παράτολμη νυχτερινή επιχείρηση που βύθισε τουρκικό πολεμικό πλοίο στη Θεσσαλονίκη το 1912](https://www.huffingtonpost.gr/kinonia/nikolaos-votsis-i-paratolmi-nychterini-epicheirisi-pou-vythise-tourkiko-polemiko-ploio-sti-thessaloniki-to-1912/) — *GDELT/huffingtonpost.gr*
+- [Καιρός Κυριακής : Επιστρέφει ο ήλιος μετά την κακοκαιρία – Πού επιμένουν οι νεφώσεις και η πρωινή ψύχρα](https://www.huffingtonpost.gr/kinonia/kairos-kyriakhs/) — *GDELT/huffingtonpost.gr*
+- [Ναυτιλία : Η « ισχύς του ανέμου » επιστρέφει στα εμπορικά πλοία με τη βοήθεια της τεχνολογίας](https://www.huffingtonpost.gr/diethnes/naftilia-i-ischys-tou-anemou-epistrefei-sta-eborika-ploia-me-ti-voitheia-tis-technologias-exoikonomisi-kafsimon-eos-25/) — *GDELT/huffingtonpost.gr*
+- [Παραδοχή σοκ Vance : Αποτύχαμε στο Ιράν , κάναμε σοβαρά λάθη - Αποκάλυψη WSJ : Η Τεχεράνη καθοδηγεί τους Houthis](https://www.bankingnews.gr/diethni/articles/905761/paradoxi-sok-vance-apotyxame-sto-iran-kaname-sovara-lathi-apokalypsi-wsj-i-texerani-kathodigei-tous-houthis%20title=) — *GDELT/bankingnews.gr*
+- [Παραδοχή σοκ Vance : Αποτύχαμε στο Ιράν , κάναμε σοβαρά λάθη - Αποκάλυψη WSJ : Η Τεχεράνη καθοδηγεί τους Houthis](https://www.bankingnews.gr/diethni/articles/905761/paradoxi-sok-vance-apotyxame-sto-iran-kaname-sovara-lathi-apokalypsi-wsj-i-texerani-kathodigei-tous-houthis) — *GDELT/bankingnews.gr*
 
-### Middle East (3)
-- [Houthi strikes on Saudi Arabia show the Yemeni rebel growing strength](https://www.yakimaherald.com/news/nation_and_world/nation/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength/article_4f2df375-61d3-571b-87bf-e60d3b531ca8.html) — *GDELT/yakimaherald.com*
-- [Iran Says Supertanker Hit Mine In Strait of Hormuz](http://www.coloradostar.com/news/279380774/iran-says-supertanker-hit-mine-in-strait-of-hormuz) — *GDELT/coloradostar.com*
-- [Sanctions, War, Isolation: Why Hasn’t Iran's Hard-Line Government Collapsed? - Radio Free Europe/Radio Liberty](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQTJsd1IyYjdwOVpxWDZfTktVV0JSMzBQX0NGVWI5VW9raHJfcFA0Mk8wdzZyWmxFbzNRLVpGM0xHRHEwVkZfOW5nMmc4QVhDZkM4R2gwOWwxMUZ5aTNUMGNHb0tLSnU3NU1uQU42Y29pQ3RGT2RuV3FRd1djZDhTMThNM2JRd9IBiAFBVV95cUxPeUVnbzNzMEctQkpCdmNyNmYySjhQejRwajBxcUxuckJ0Um5IekswNE9lUHYyUG5VaXNYTGNSY0RLck9kX0tzRHdMVGlpUnpaLTVYakNWNy1TaWVTMmFwVUY0RjJVSzAyRDV4dXRJd2ZMMDlRVnM3Q1hUbE5wVm1mYXBkZGNsVHM0?oc=5) — *Reuters World (via Google News)*
+### Egypt (3)
+- [تايوان ترصد 14 سفينة وطائرتين عسكريتين تابعة للصين حول أراضيها](https://www.shorouknews.com/news/view.aspx?cdate=18102026&id=6289f839-963b-4b66-a69a-cad510b9c269) — *GDELT/shorouknews.com*
+- [قناة النيل للأخبار | وزير الخارجية يلتقى رئيس الوزراء العراقى .. ويؤكد أهمية تعزيز الشراكة الثنائية](https://www.nile.eg/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%8A%D9%84%D8%AA%D9%82%D9%89-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1) — *GDELT/nile.eg*
+- [قناة النيل للأخبار | روبيو : قرار تجميد العقوبات على روسيا يهدف الى تقييم أثرها على الاقتصاد العالمى](https://www.nile.eg/%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%8A%D9%87) — *GDELT/nile.eg*
 
-### Turkey (3)
-- [Eyüpspora FIFAdan çifte darbe : Hem sonuncu hem transfersiz](https://www.mynet.com/eyupspor-a-fifa-dan-cifte-darbe-hem-sonuncu-hem-transfersiz-524284-myspor) — *GDELT/mynet.com*
-- [Trump , Rusya yaptırımları ve enerji tarifelerini 2 gün kala dondurdu](https://www.haberler.com/dunya/trump-rusya-yaptirimlari-ve-enerji-tarifelerini-2-20339027-haberi/) — *GDELT/haberler.com*
-- [Eyüpspora FIFAdan çifte darbe : Hem sonuncu hem transfersiz](https://www.bursadabugun.com/haber/eyupspor-a-fifa-dan-cifte-darbe-hem-sonuncu-hem-transfersiz-1957072.html) — *GDELT/bursadabugun.com*
+### Indonesia (3)
+- [Anak Krakatau Erupsi 3 Kali , Kolom Abu Tertinggi 500 Meter](https://news.harianjogja.com/r-1275454/anak-krakatau-erupsi-3-kali-kolom-abu-tertinggi-500-meter) — *GDELT/news.harianjogja.com*
+- [Rusia Kirim Kapal Tanker Pertama Minyak untuk Pasar Global](https://news.harianjogja.com/r-1275462/rusia-kirim-kapal-tanker-pertama-minyak-untuk-pasar-global) — *GDELT/news.harianjogja.com*
+- [Gunung Anak Krakatau Kembali Erupsi , Luncurkan Abu Setinggi 500 Meter](https://www.viva.co.id/berita/nasional/1936747-gunung-anak-krakatau-kembali-erupsi-luncurkan-abu-setinggi-500-meter) — *GDELT/viva.co.id*
 
-### Luxembourg (3)
-- [Grynspan Holds Lead For Next UN Chief As Race Enters Decisive Stage](https://www.chronicle.lu/category/international-news/64067-grynspan-holds-lead-for-next-un-chief-as-race-enters-decisive-stage) — *GDELT/chronicle.lu*
-- [Luxembourg Recruitment Platform Launches Dedicated Student Portal](https://www.chronicle.lu/category/working-in-luxembourg/64071-luxembourg-recruitment-platform-launches-dedicated-student-portal) — *GDELT/chronicle.lu*
-- [Luxembourg Recruitment Platform Launches Dedicated Student Portal](https://www.chronicle.lu/category/jobs-appointments/64071-luxembourg-recruitment-platform-launches-dedicated-student-portal) — *GDELT/chronicle.lu*
+### Ukraine (3)
+- [Олешки гуманітрана катастрофа - Сибіга повідомив про смертельну блокаду міста](https://24tv.ua/oleshki-gumanitrana-katastrofa-sibiga-povidomiv-pro-smertelnu_n3162696) — *GDELT/24tv.ua*
+- [Сбитие реактивных дронов над Черным морем – Румыния созывает Раду НАТО](https://24tv.ua/ru/sbitie-reaktivnyh-dronov-nad-chernym-morem-rumynija-sozyvaet-radu-nato_n3162681) — *GDELT/24tv.ua*
+- [Олешки : гуманитарная катастрофа – Сибига сообщил о смертельной блокаде города](https://24tv.ua/ru/oleshki-gumanitarnaja-katastrofa-sibiga-soobshhil-o-smertelnoj-blokade-goroda_n3162715) — *GDELT/24tv.ua*
 
-### Canada (2)
-- [In Canada drone - killing  Sandbox , companies compete for a $1M prize](https://www.cbc.ca/news/politics/counter-drone-sandbox-competition-alberta-9.7382438) — *GDELT/cbc.ca*
-- [Can AI be regulated ? Why experts say government intervention is needed but could be tricky](https://www.cbc.ca/news/business/ai-safety-regulation-9.7382483) — *GDELT/cbc.ca*
+### Lebanon (2)
+- [مقتل طيارين سعوديين بتحطم مروحية استطلاع قرب اليمن ، وجماعة أنصار الله تعلن إسقاط مسيّرة سعودية](https://cedarnews.net/bbc/1080515/%D9%85%D9%82%D8%AA%D9%84-%D8%B7%D9%8A%D8%A7%D8%B1%D9%8A%D9%86-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%8A%D9%86-%D8%A8%D8%AA%D8%AD%D8%B7%D9%85-%D9%85%D8%B1%D9%88%D8%AD%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B7/) — *GDELT/cedarnews.net*
+- [Imagini din satelit : Cum arată iahtul de lux al lui Kim Jong Un , dotat cu piscină olimpică și tobogane acvatice](https://cedarnews.net/romana/1080535/imagini-satelit-cum-arata-iahtul-lux-lui/) — *GDELT/cedarnews.net*
 
-### Ukraine (2)
-- [Оренда квартир у Києві дешевшає : наскільки можуть впасти ціни взимку](https://dengi.ua/ua/realty/9763061-orenda-kvartir-u-kijevi-deshevshaje-naskilki-mozhut-vpasti-tsini-vzimku) — *GDELT/dengi.ua*
-- [Нафта , вибори та Кремль : чому Трамп заблокував санкції проти РФ](https://dengi.ua/ua/finance/9763063-nafta-vibori-ta-kreml-chomu-tramp-zablokuvav-sanktsiyi-proti-rf) — *GDELT/dengi.ua*
+### Croatia (2)
+- [Djevice očekuje najgori dan u tjednu](https://www.index.hr/horoskop/clanak/djevice-ocekuje-najgori-dan-u-tjednu/2846726.aspx?index_tid=1191922&index_ref=naslovnica_horoskop_d) — *GDELT/index.hr*
+- [Djevice očekuje najgori dan u tjednu](https://www.index.hr/horoskop/clanak/djevice-ocekuje-najgori-dan-u-tjednu/2846726.aspx?index_tid=1191922&index_ref=naslovnica_magazin_najnovije_d) — *GDELT/index.hr*
 
-### Italy (2)
-- [Il ritorno dei cannoni ( intelligenti ) sulle grandi navi da guerra : contro i droni i missili costano troppo](https://www.ilmessaggero.it/tecnologia/news/navi_guerra_cannoni_intelligenti_droni_missili_costi-9831044.html) — *GDELT/ilmessaggero.it*
-- [Nichelino : oggi lultimo saluto ad Alessia Fonsatti , vittima dellincidente stradale a Debouchè](https://www.ecodelchisone.it/news/2026-10-17/nichelino-oggi-ultimo-saluto-ad-alessia-fonsatti-vittima-dell-incidente-stradale-debouche-62437) — *GDELT/ecodelchisone.it*
+### Lithuania (2)
+- [Karališkoje jachtoje apsilankiusi lietuvė liko be žado : štai kaip iš tikrųjų gyveno Elžbieta II](https://www.15min.lt/gyvenimas/naujiena/keliones/karaliskoje-jachtoje-apsilankiusi-lietuve-liko-be-zado-stai-kaip-is-tikruju-gyveno-elzbieta-ii-1630-2786344) — *GDELT/15min.lt*
+- [Skaitytojų komentarai](https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/10/18/news/lietuvoje-oro-atakos-ispejimas-raudonas-ispejimas-panevezio-ir-siauliu-apskrityse-pakelti-naikintuvai-44315202/comments) — *GDELT/lrytas.lt*
 
-### Bulgaria (2)
-- [Деца и едномесечно бебе пострадаха при руски атаки в Украйна , шофьор на линейка е убит](https://www.bgonair.bg/a/4-world/433799-detsa-i-ednomesechno-bebe-postradaha-pri-ruski-ataki-v-ukrayna-shofyor-na-lineyka-e-ubit) — *GDELT/bgonair.bg*
-- [НАТО вдигна изтребители заради въздушна заплаха край границата на Румъния](https://www.bgonair.bg/a/4-world/433808-nato-vdigna-iztrebiteli-zaradi-vazdushna-zaplaha-kray-granitsata-na-rumaniya) — *GDELT/bgonair.bg*
+### United Kingdom (2)
+- [Police narrow search for two men missing from Lewis boat](https://www.heraldscotland.com/news/26646905.police-narrow-search-two-men-missing-lewis-boat/) — *GDELT/heraldscotland.com*
+- [Maybe a few fish are going to die - that life  as debate rages over data centre by Menai Strait](https://www.dailypost.co.uk/news/north-wales-news/maybe-few-fish-going-die-34766022) — *GDELT/dailypost.co.uk*
 
-### Indo-Pacific (2)
-- [India Russian crude binge to continue after Trump waives new sanctions law](https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-russian-crude-binge-to-continue-after-trump-waives-new-sanctions-law/articleshow/135010666.cms) — *GDELT/economictimes.indiatimes.com*
-- [Taiwan accuses China of trying to influence elections through sanctions](http://www.jamaicantimes.com/news/279380681/taiwan-accuses-china-of-trying-to-influence-elections-through-sanctions) — *GDELT/jamaicantimes.com*
+### France (2)
+- [KFC opte pour Coca - Cola comme fournisseur de soda aux États - Unis , délaissant ainsi son partenaire historique PepsiCo](https://www.journaldeleconomie.fr/kfc-opte-pour-coca-cola-comme-fournisseur-de-soda-aux-etats-unis-delaissant-ainsi-son-partenaire-historique-pepsico/) — *GDELT/journaldeleconomie.fr*
+- [On ne nous écoute pas et on ne nous respecte pas  … Lycéens , parents ou anciens Gilets jaunes , ils racontent pourquoi ils ont manifesté en Dordogne ce samedi 17 octobre](https://www.sudouest.fr/societe/greves-et-manifestations/on-ne-nous-ecoute-pas-et-on-ne-nous-respecte-pas-lyceens-parents-ou-anciens-gilets-jaunes-ils-racontent-pourquoi-ils-ont-manifeste-en-dordogne-ce-samedi-17-octobre-31117802.php) — *GDELT/sudouest.fr*
 
-### Armenia (2)
-- [Lurer . com | « Հրապարակ »․ Խաբելու նոր սցենարներ են մտածում](https://lurer.com/article/757207/am) — *GDELT/lurer.com*
-- [Le chef de la sécurité nationale arménienne prend la défense du soldat azerbaïdjanais qui a tiré sur Ani Avetisyan - Nouvelles dArménie en Ligne – Toute lactualité sur le monde arménien](https://www.armenews.com/le-chef-de-la-securite-nationale-armenienne-prend-la-defense-du-soldat-azerbaidjanais-qui-a-tire-sur-ani-avetisyan/) — *GDELT/armenews.com*
+### Turkey (2)
+- [Sağlıklı alışkanlıklarla erken menopoz riskini azaltmak elinizde - Antalya Son Dakika Haberleri](https://yerel-haberler.haberturk.com/antalya-haberleri/saglikli-aliskanliklarla-erken-menopoz-riskini-azaltmak-elinizde-119496046) — *GDELT/yerel-haberler.haberturk.com*
+- [Arakçi : Yedi Günlük Programý Akladýk , Karar ABDnin](https://www.memurlar.net/haber/1181376/arakci-yedi-gunluk-programi-acikladik-karar-abd-nin.html) — *GDELT/memurlar.net*
 
 ### Romania (2)
-- [Comunicat de presă - Poliția de Frontieră](https://agerpres.ro/comunicate/2026/10/17/comunicat-de-presa---politia-de-frontiera--1604021) — *GDELT/agerpres.ro*
-- [Mutarea lui Trump după replicile dure cu Volodimir Zelenski : Cum scapă Moscova în ultima clipă de noul val de sancțiuni](https://hotnews.ro/mutarea-lui-trump-dupa-replicile-dure-cu-volodimir-zelenski-cum-scapa-moscova-in-ultima-clipa-de-noul-val-de-sanctiuni-2378524) — *GDELT/hotnews.ro*
+- [Rețeta de dulceață de morcovi a părintelui Efrem Barnica de la Mănăstirea Dervent . Ingredientul care îi oferă o aromă deosebită](https://www.csid.ro/diete/retete-culinare/reteta-de-dulceata-de-morcovi-a-parintelui-efrem-barnica-de-la-manastirea-dervent-ingredientul-care-ii-ofera-o-aroma-deosebita-21335264/) — *GDELT/csid.ro*
+- [O casă veche de 1 . 600 de ani , descoperită la câțiva pași de un debarcader antic , pe coasta Corsicăi](https://historia.ro/sectiune/actualitate/o-casa-veche-de-1600-de-ani-descoperita-la-2564739.html) — *GDELT/historia.ro*
 
-### Bosnia-Herzegovina (1)
-- [Preminuo sarajevski novinar Rajko Živković : Radio pod snajperima , a Caco mu spasio život na Kazanima](http://www.avaz.ba/vijesti/bih/1080812/preminuo-sarajevski-novinar-rajko-zivkovic-radio-pod-snajperima-a-caco-mu-spasio-zivot-na-kazanima) — *GDELT/avaz.ba*
+### Taiwan (2)
+- [三戰會爆發嗎 ？ FT首席外交評論員警告 ： 台灣成全球和平關鍵 川普對盟友承諾添變數](https://n.yam.com/Article/20261018440255) — *GDELT/n.yam.com*
+- [狂吃泡麵 、 洋芋片不只三高上身 腦血管疾病風險高40 ％ - 健康](https://www.chinatimes.com/realtimenews/20261018001969-260418) — *GDELT/chinatimes.com*
 
-### Argentina (1)
-- [Crisis humanitaria en Oleshky : un invierno de hambre amenaza a los atrapados en Ucrania](https://www.cadena3.com/noticia/mundo/crisis-humanitaria-en-oleshky-un-invierno-de-hambre-amenaza-a-los-atrapados-en-ucrania_604278) — *GDELT/cadena3.com*
+### Kuwait (1)
+- [شاهد الان مباراة الهلال وسيداما دورى ابطال افريقيا](https://alkhabarkw.com/45124/%D8%B4%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%A7%D9%86-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%88%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D8%A7-%D8%AF%D9%88%D8%B1%D9%89-%D8%A7/) — *GDELT/alkhabarkw.com*
 
-### India (1)
-- [ਸਰਕਾਰਾਂ ਇਕ ਦੂਜੇ  ਤੇ ਇਲਜ਼ਾਮ ਲਾਉਣ ਦੀ ਬਜਾਏ ਨਸ਼ਿਆਂ ਨਾਲ ਮਰ ਰਹੇ ਲੋਕਾਂ ਪ੍ਰਤੀ ਸੰਵੇਦਨਸ਼ੀਲ ਹੋਣ – ਗਿਆਨੀ ਹਰਪ੍ਰੀਤ ਸਿੰਘ | Punjab News](http://www.quamiekta.com/2026/10/17/67080/) — *GDELT/quamiekta.com*
+### Albania (1)
+- [Rama ofendon studentët në protestë : Nuk kanë mend fare , janë koke boshë](https://www.balkanweb.com/rama-ofendon-studentet-ne-proteste-nuk-kane-mend-fare-jane-koke-boshe/) — *GDELT/balkanweb.com*
 
-### Brazil (1)
-- [Lukas Brambilla decide e celebra início no Java United :  Não poderia imaginar um início melhor](https://www.futebolinterior.com.br/lukas-brambilla-marca-java-united/) — *GDELT/futebolinterior.com.br*
+### Syria (1)
+- [Egypt Enters the War](https://english.aawsat.com/opinion/5330699-egypt-enters-war) — *GDELT/english.aawsat.com*
 
-### Bangladesh (1)
-- [হরমুজ প্রণালিতে ভাসছে আইফোন , কুড়াচ্ছেন ইরানি জেলেরা](https://www.ntvbd.com/world/news-1820953) — *GDELT/ntvbd.com*
+### Slovak Republic (1)
+- [Pri páde vojenského vrtuľníka v Saudskej Arábii zahynuli dvaja piloti , k zostreleniu sa prihlásili húsíovci](https://hnonline.sk/svet/96308457-pri-pade-vojenskeho-vrtulnika-v-saudskej-arabii-zahynuli-dvaja-piloti-k-zostreleniu-sa-prihlasili-husiovci) — *GDELT/hnonline.sk*
 
-### Moldova (1)
-- [Doi grăniceri ucraineni au traversat ilegal frontiera în timp ce încercau să oprească un bărbat care voia să ajungă în Moldova . Militarii au fost reținuți , iar pe acest caz a fost pornită urmărirea penală - VIDEO](https://protv.md/actualitate/doi-graniceri-ucraineni-au-traversat-ilegal-frontiera-in-timp-ce-incercau-sa-opreasca-un-barbat-care-voia-sa-ajunga-in-moldova-militarii-au-fost-retinuti-iar-pe-acest-caz-a-fost-pornita-urmarirea-penala---2769811.html) — *GDELT/protv.md*
-
-### China (1)
-- [周末 外围市场 不平静 _ 东方财富网](https://finance.eastmoney.com/a/202610173899037484.html) — *GDELT/finance.eastmoney.com*
+### Bulgaria (1)
+- [Новак : Европа няма с какво да замени руския газ](https://fakti.bg/biznes/1091259-v-moskva-sa-ubedeni-che-evropa-nama-s-kakvo-da-zameni-ruskia-gaz) — *GDELT/fakti.bg*
 
 ### Serbia (1)
-- [Tramp stopirao nove sankcije Rusiji , dok se spor sa Zelenskim zaoštrava](https://naslovi.net/2026-10-17/juzne-vesti/tramp-stopirao-nove-sankcije-rusiji-dok-se-spor-sa-zelenskim-zaostrava/42497216) — *GDELT/naslovi.net*
+- [Bazen od 50 metara i tobogan : Satelitski snimci otkrivaju tajnu luksuznu jahtu Kima Džonga Una](https://www.blic.rs/bbc/bazen-od-50-metara-i-tobogan-satelitski-snimci-otkrivaju-tajnu-luksuznu-jahtu-kima/vqyw7bq) — *GDELT/blic.rs*
 
-### Zimbabwe (1)
-- [Mnangagwa fires back at relentless Chiwenga](https://www.newzimbabwe.com/mnangagwa-fires-back-at-relentless-chiwenga/) — *GDELT/newzimbabwe.com*
+### Pakistan (1)
+- [آبنائے ہرمز میں امریکی بحریہ نہ ہوتی تو پیٹرول تین گنا مہنگا ہوتا ، جے ڈی وینس کا دعویٰ](https://www.express.pk/story/2838847/vance-claims-us-gas-prices-would-triple-without-navy-presence-in-strait-of-hormuz-2838847) — *GDELT/express.pk*
 
-### France (1)
-- [Il y a plein dautres espaces  : la construction de deux immeubles aux abords de ce parc dAngers crée la polémique](https://larochesuryon.maville.com/actu/actudet_-il-y-a-plein-d-autres-espaces-la-construction-de-deux-immeubles-aux-abords-de-ce-parc-d-angers-cree-la-polemique_fil-7532667_actu.Htm) — *GDELT/larochesuryon.maville.com*
-
-### Belgium (1)
-- [Duitsland gaat sigarettenprijzen tegen 2030 verhogen tot bijna 12 euro](https://newsmonkey.be/duitsland-gaat-sigarettenprijzen-tegen-2030-verhogen-tot-bijna-12-euro/) — *GDELT/newsmonkey.be*
-
-### Taiwan (1)
-- [修復地球不只口號 ！ 中山大學循環綠活節號召全民永續行動](https://n.yam.com/Article/20261017265171) — *GDELT/n.yam.com*
-
-### Egypt (1)
-- [سيف تقا : الزمالك قادر على تعويض بيزيرا .. وإمام عاشور ومروان عطية الأفضل](https://www.elwatannews.com/news/details/8378814) — *GDELT/elwatannews.com*
+### Germany (1)
+- [Zabrana hidžaba u školama pokrenula proteste u Azerbejdžanu](https://www.dw.com/sr/protesti-zbog-zabrane-hid%C5%BEaba-u-azerbejd%C5%BEanu-za%C5%A1to-su-u-njih-uklju%C4%8Dena-deca/a-79689208) — *GDELT/dw.com*
 
 ### Vietnam (1)
-- [Đột nhập trường học trộm linh kiện 44 bộ máy tính trị giá gần nửa tỷ đồng](https://vietgiaitri.com/dot-nhap-truong-hoc-trom-linh-kien-44-bo-may-tinh-tri-gia-gan-nua-ty-dong-20261017i7795890/) — *GDELT/vietgiaitri.com*
+- [100 người đưa khối thép 3 . 400 tấn , dài gần 200 m lên sà lan khổng lồ , vượt 124 km đường thủy để thực hiện công việc đặc biệt giữa TP . HCM](https://cafebiz.vn/100-nguoi-dua-khoi-thep-3400-tan-dai-gan-200-m-len-sa-lan-khong-lo-vuot-124-km-duong-thuy-de-thuc-hien-cong-viec-dac-biet-giua-tphcm-176261018131212319.chn) — *GDELT/cafebiz.vn*
 
-### Peru (1)
-- [Cómo el calor afecta tus ojos : riesgos y enfermedades frecuentes](https://chimbotenlinea.com/index.php/noticias/salud-0/16/10/2026/como-el-calor-afecta-tus-ojos-riesgos-y-enfermedades-frecuentes) — *GDELT/chimbotenlinea.com*
+### Japan (1)
+- [和歌山 ・ 白良浜で大阪災害ボランティアが防災訓練 大災害に備えて炊き出しで被災者支援をめざす](https://www.sankei.com/article/20261018-GXCQZTSI2BIIXO3IYNOFVHPHNA/) — *GDELT/sankei.com*
 
-### Israel (1)
-- [טראמפ הקפיא חבילת סנקציות נגד רוסיה ימים אחדים לפני כניסתה לתוקף](https://www.haaretz.co.il/news/world/america/2026-10-17/ty-article/000001a1-48fb-de47-a5b5-fafb77650000) — *GDELT/haaretz.co.il*
+### Indo-Pacific (1)
+- [Taiwan in the crosshairs ? US Army unveils new strategy to counter China](https://timesofindia.indiatimes.com/defence/international/taiwan-in-the-crosshairs-us-army-unveils-new-strategy-to-counter-china/articleshow/135024821.cms) — *GDELT/timesofindia.indiatimes.com*
 
-### Austria (1)
-- [Auto überschlägt sich in Ainring : 18 - jähriger Lenker leicht verletzt](https://www.salzburg24.at/news/salzburg/grenznah/auto-ueberschlaegt-sich-in-ainring-18-jaehriger-lenker-leicht-verletzt-art-341526) — *GDELT/salzburg24.at*
+### Argentina (1)
+- [El té , mucho más que una infusión : una tradición milenaria que se reinventa y atrae a un público más joven](http://www.eldia.com/temas/el-te-mucho-mas-que-una-infusion-una-tradicion-milenaria-que-se-reinventa-y-atrae-a-un-publico-mas-joven-temas_1792295490) — *GDELT/eldia.com*
+
+### Iraq (1)
+- [طهران تحمّل واشنطن مسؤولية فشل المفاوضات](https://middle-east-online.com/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%AD%D9%85%D9%91%D9%84-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D9%81%D8%B4%D9%84-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA) — *GDELT/middle-east-online.com*
+
+### Canada (1)
+- [Rookies Wrap ABSS Prelims ; Shark Week Sets Record](https://standardbredcanada.ca/news/10-18-26/rookies-wrap-abss-prelims-shark-week-sets-record.html) — *GDELT/standardbredcanada.ca*
+
+### United States (1)
+- [Every sunny surface  is being put to work . Europeans transforming their homes with solar driveways](https://www.euronews.com/2026/10/18/every-sunny-surface-is-being-put-to-work-europeans-transforming-their-homes-with-solar-dri) — *GDELT/euronews.com*
+
+### Saudi Arabia (1)
+- [« الأرصاد »: أمطار غزيرة وسيول وبَرَد على 7 مناطق بالمملكة](https://www.okaz.com.sa/local/na/2271252) — *GDELT/okaz.com.sa*
+
+### Moldova (1)
+- [Cum s - a adâncit prăpastia dintre Donald Trump și Volodimir Zelenski . Disensiunile Kiev - Washington pun în pericol sprijinul vital pentru Ucraina](https://protv.md/ucraina/cum-s-a-adancit-prapastia-dintre-donald-trump-si-volodimir-zelenski-disensiunile-kiev-washington-pun-in-pericol-sprijinul-vital-pentru-ucraina---2769861.html) — *GDELT/protv.md*
 
 ---
 *No LLM key set — this is the free grouped digest. Set `ANTHROPIC_API_KEY` for a synthesized brief.*
