@@ -1,6 +1,14 @@
-# Daily Brief — 2026-10-19 12:36 UTC
+# Daily Brief — 2026-10-20 11:09 UTC
 
 ## ⚠️ Signals to watch
+- **📈 'geopolitics' spike: 81 items in 6h (was 5)** — 81 events tagged 'geopolitics' in the last 6h vs 5 in the prior 6h.
+- **▼ 38pt swing: Will Donald Trump make an endorsement or comment on the NZ election before polls close?** — Manifold: 46% → 8% over ~24h
+- **📈 'maritime' spike: 77 items in 6h (was 5)** — 77 events tagged 'maritime' in the last 6h vs 5 in the prior 6h.
+- **▼ 11pt swing: Will France cut off funding to Ukraine in 2027?** — Manifold: 51% → 41% over ~24h
+- **📈 'conflict' spike: 4 items in 6h (was 1)** — 4 events tagged 'conflict' in the last 6h vs 1 in the prior 6h.
+- **▼ 11pt swing: Will France cut off funding to Ukraine in 2027?** — Manifold: 51% → 41% over ~24h
+- **📈 'maritime' spike: 5 items in 6h (was 2)** — 5 events tagged 'maritime' in the last 6h vs 2 in the prior 6h.
+- **📈 'geopolitics' spike: 85 items in 6h (was 0)** — 85 events tagged 'geopolitics' in the last 6h vs 0 in the prior 6h.
 - **📈 'policy' spike: 10 items in 6h (was 3)** — 10 events tagged 'policy' in the last 6h vs 3 in the prior 6h.
 - **📈 'policy' spike: 4 items in 6h (was 1)** — 4 events tagged 'policy' in the last 6h vs 1 in the prior 6h.
 - **📈 'maritime' spike: 78 items in 6h (was 3)** — 78 events tagged 'maritime' in the last 6h vs 3 in the prior 6h.
@@ -8,64 +16,126 @@
 - **📈 'conflict' spike: 7 items in 6h (was 2)** — 7 events tagged 'conflict' in the last 6h vs 2 in the prior 6h.
 - **▼ 16pt swing: War in Iran goes into Berserk mode before end of 2027?** — Manifold: 46% → 30% over ~24h
 - **▼ 22pt swing: Major Iran escalation this weekend?** — Manifold: 35% → 13% over ~24h
-- **▼ 22pt swing: Major Iran escalation this weekend?** — Manifold: 35% → 13% over ~24h
-- **📈 'maritime' spike: 77 items in 6h (was 2)** — 77 events tagged 'maritime' in the last 6h vs 2 in the prior 6h.
-- **📈 'conflict' spike: 16 items in 6h (was 1)** — 16 events tagged 'conflict' in the last 6h vs 1 in the prior 6h.
-- **📈 'geopolitics' spike: 77 items in 6h (was 2)** — 77 events tagged 'geopolitics' in the last 6h vs 2 in the prior 6h.
-- **📈 'policy' spike: 6 items in 6h (was 2)** — 6 events tagged 'policy' in the last 6h vs 2 in the prior 6h.
-- **▲ 28pt swing: War in Iran goes into Berserk mode before end of 2027?** — Manifold: 17% → 46% over ~24h
-- **▼ 12pt swing: War in Iran goes into Berserk mode before end of 2027?** — Manifold: 28% → 17% over ~24h
-- **▼ 11pt swing: Will One Nation’s primary vote share in the next federal election exceed 15%?** — Manifold: 67% → 56% over ~24h
 
 ## By region
-### Unsorted (69)
-- [Will the Republican Party candidate win the 2026 FL-16 House election by 15%-18%?](https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-fl-16-house-election-by-15-18) — *Market/Polymarket*
-- [‘Seems like a conflict of interest, right?’ I have $4M in a 401(k) and an adviser wanted me to roll it over to an IRA for ‘better performance.’ What’s my move? - MarketWatch](https://news.google.com/rss/articles/CBMimwJBVV95cUxNUUVKU2NSajFUaWRWMFluY0RMZi1uc0xRZTZaZlRWSDk1OS1hcm4xb0dhRk5XSVRDX1NfajRPZDZNWW4zSWRlXzFCbUc4Z1FvRkFrR1NSSVAwTGo4YUt1TnN0aXVpeWFJT0kxWnhwbVJFS2otUjhfb3o2bmRKWXJySTJxMGtTZUJpcmtldEx6ZmNDYTZrZVVsdHZaZFctdWJ5Q1JhcDJNUTFPRF9jWDYxVUJXU1lOZ0wzcmJIWjN0YlpyVWx6ZjRhVzRCWElrclo1UWFYVVVEcDVvR0RNSVczeG9xMUFmMmJOSkRBNXBZYWJCRFhMV25YbEdOZ3dKbm9kajFLcTJqWTZ0VXlpUzlBNE5KSkJhUzUtRlIw?oc=5) — *Reuters World (via Google News)*
-- [Geopolitics Expert, Consultant & Influencer Scott Steinberg - www.futuristsspeakers.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxObWZTd3ZYdEV5aU9BVG9kUWp1bEg2UmFCUUdiVFl5cm1tdGVQNVNaWVVQanp4QkFxTl8tU1Nkb2VwclF0Wm9HNFZpTkE0QjY2UXhzSXRSV2ZmODFQNmZVLUFSQTZ5Sl95UTI3eW10a0FHRmlGcDhhRWVEdlZDQzVuNw?oc=5) — *Reuters World (via Google News)*
-- [How Is Canada’s Military Buildup Going? - The Atlantic](https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGVHTEtYX3RIOS1NWDNyV3p6UVhJM1U3SElNTDhva2F0Z1ppbHBxdWlicUJ2cEswWkEwdUxPUkV3NmZRTkVGaVZGNjlXNlNFa0FnTlZ5OG5lcFRDeFhwZ1JrbTFmd3VhM0hVVFQ4YVhaYjVPUTZzZnJTQkxVVWhkUGhKS19FSUFSZXpSZC1sY0FvdWM?oc=5) — *Reuters World (via Google News)*
-- [Burnham pledges ‘big changes’ to the way the welfare system works to tackle Neets crisis – UK politics live](https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates) — *The Guardian World*
-- [Trump to head to Kansas to show support for embattled Marshall – US politics live](https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates) — *The Guardian World*
-- [Is Open Hardware Security Push Altering The Investment Case For Oracle (ORCL)? - Simply Wall Street](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHlyb0w4MnNGOXZNOEpkSzNiSnZFbGExdnA0czZ4b01vcjJHSWtsVkpIWEMzRmxuSXNIVEVVaVkyeldsbzNpb29wSEJkM2pObVZmYU1ER21ENG96Vl9Hd1dvQ1hoWDhEeHU1dUZkNU1hUWxMY1BrU3c2WFV0bFF6dVFHMm5MQTdpN1QwN3ZjRHRXdUtnZ09xYXpSdnpmX1Mtd1JVZWF3RkpQWTdaYUpDU24xZzZkbkI2bmV2eEZzd9IBxAFBVV95cUxPNDhQNTBXTm96UnhWVHdTRXNROWlzWTQ4UDM4NGtCbDRnVlpEcVFNaXo4R2VxMUVQOXZwT3QwdFlWbG11S3U1ejQ4NjB4VmtSRGMtVkZGSTFnWXNDUkE4VXd5ZVhsckxJcnk4R1VYWkxDWEtPMkxRMlg3T1NlZDRpX2dWazZTeFI0RVp3d2pPZ3UtNmJPMm1yY2N5cjY4UzY0NUpudXpkVHdRZlFDb1A4OTdoUm92ay1iZy1aSTJ5bkRCdXFu?oc=5) — *Reuters World (via Google News)*
-- [Israeli police arrest 10 after settler attacks on journalist, diplomats - Al Jazeera](https://news.google.com/rss/articles/CBMisgFBVV95cUxPbk1sUWxYbFljUV9wa0d2bE45SDY0MXA5aGVIcmVMZkt3a2JEalpwdlhSeXpWTW9wYkpaRy0tQ1F2Zk54M2l0bm80Y3BJU0RseElBWGV1bUt5N3ZfQTdIMXl6Wmk1bmlpbkVncGVPbkVBV1lTajdoMG14RzlJZE1PYUlsMnliY3F2Q294Z3paODJjVE1nUVpJSGxHNVktN21qSEdMbEZOa2xHVG5XZndhMVF30gG3AUFVX3lxTE5pWWJrVWlRN2pOOFZfZmJGUjcydHdlT3NwQjBYak1fS3YyMXctQ0VDVHVMbjhHLURjTkphUEs3bTV0WkF5cWVyaDZ4dUlwbkVYSnNoSEZmbFljOEE1bVlNLUt1OUhBTk1oeTl2MjJES2FaTXJodkk0QTM3MTVjWkE4TF8yWDNUeEEwTGxhUFh0LUozNmR6WVM5NEt0dHdpRWwxb1ZaYU1LejhGNEZNaV81WEFVUFZoOA?oc=5) — *Reuters World (via Google News)*
+### Unsorted (46)
+- [Will Howard Lutnick leave the Trump administration before 2027?](https://polymarket.com/market/will-howard-lutnick-leave-the-trump-administration-before-2027) — *Market/Polymarket*
+- [Amnesty Urges Sanctions Over Colonizer Attacks - - IMEMC News](https://news.google.com/rss/articles/CBMifkFVX3lxTFBraXg4ZGR0a25tNFdzcGllZlA4NUV0OVZzSkNMMk9hZE9kaDFMWHlQNGxkZ0xPdGg5d20wajIxeVlKSUFpUi1NMURwSHFXX2dreWxDRy1YMVpkWnExeEpkOWxvY3VObEhIb3FXMVZvNlY4QWtfRkw2YWhPdXN5dw?oc=5) — *Reuters World (via Google News)*
+- [Bodycam video shows police officer shoving Herzog protester before ‘I punched him in the head’ boast](https://www.theguardian.com/australia-news/2026/oct/20/herzog-protest-police-bodycam-video-boasts-punch-to-protester-ntwnfb) — *The Guardian World*
+- [U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft - The Information](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDllOWJRbUptRWNad3lpaS00MDRNUGpiUXdVaU8xdWxLeENUUWNERXNySlJRcTZYZU9zdVctZEM1Xy1yOUtJWmNzX2xITEpzY0dHeWJ5dmh5SFdCc21FVWZGX1ZPQjhTSEJ6RUs4Qy1OeFhpWjBHdkxwaFpTVkxKTjZSMnB5MGszMDA5Sm5EOEZvcjZuVGJDM3NiOHFTaWUxUGMwVlBIT2l6eFZYV3hoTUFB?oc=5) — *Reuters World (via Google News)*
+- [Alberta voters reject plan for referendum to leave Canada, CBC projects](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum) — *The Guardian World*
+- [The empire’s uniforms in the world’s oldest colony - The Christian Century](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnRyLTJ6ZzhFVWtzZDdBZURiWU1yZW16SVZvTDFPeVV0TldfTE9sT1hrZ2ZJci1VUDd4UVdtbmF3ZWhvUlBMOFRMTVQzNnMybTFockROUDIzTjVicDY1OFNMWXlCVmc5ODJJbVZDSG1hX1lzek84WEw4ZHY3ekhfM2dBR0E5TWhG?oc=5) — *Reuters World (via Google News)*
+- [Chinese navy says US ship near Sabina Shoal jeopardised maritime security - WTVB](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjZ3RUptTExGUUhaaDZnWHRjVG1aSzh6c1ZjTlgzR3J1TFJqWWIyNGh4eTFzaEVGd1NxS29uNkNGZlVfck1hcGZuREpFb0djYk9hNWc1NkFGTmVHblMzU3Z4NmZlOGthSjBJWW5Lb25VS3I0amhiamt4QmJ5ZGxrQzNXSlB6RzdMRjk0bkkwRW55VlhBSTRIMTFXMzdlT05HemczN2tDZw?oc=5) — *Reuters World (via Google News)*
+- [Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles](https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles) — *The Guardian World*
 
-### Europe (20)
-- [European governments warn citizens over security in France after riots - The Mighty 790 KFGO](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUZvS1RobFAxbUtSWERJY0swNWZpVHhTZ3hacXlnSWdqYXB3T0cyckpVdWN6NV9PQXliRXhLM0ViVzFxNkcwbWNiUXdqTkdUWE5DaEkzWk5ReTE5cndnWGR3alo1YnRtSFlZNFRkdHJ0dlZ2bEVVWFN1UTZZc0JmLWZ1ZlNtQU5CVWpuSzE0a213ZzlqT0VPRnZwVHRJOFd0?oc=5) — *Reuters World (via Google News)*
-- [France braces for weeks more of protests as unrest spreads to Italy – Europe live](https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates) — *The Guardian World*
-- [Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia - NPR](https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1FhWGsxa3oydzB1MVI2YkIwQXNVQVFJZ3Q1bWVVUTJvTUNUY281UEpoUXBYZjhhQUZNWUVNSk85UjFxaF81Q09NWkRPdmlSbVBTMl90T0oyMUtXX1RDY3FzNHlCcmhXOFZxY3FXY1hBSHVxUTdJV0tqZlRYaW5FWDRQNlhMX2tkUkc1Z2FvSl9PNmRLYTkwUlZuRnVMY2ZZQVE?oc=5) — *Reuters World (via Google News)*
-- [What’s wrong with schools in France?](https://www.aljazeera.com/video/by-the-numbers-3/2026/10/19/whats-wrong-with-schools-in-france?traffic_source=rss) — *Al Jazeera*
-- [HSFO eases; US sanctions waiver on Russia still unclear - TradingView](https://news.google.com/rss/articles/CBMiwgFBVV95cUxObE9Fa0dwcFh4ajZaWDlUWWxLeDVKamxDbUFuRjhRNk03V2JCX0paeUNGSVREcXZ1VkRjQ1NkLWtMQzBPV245MG51VGtwNHVGOHBMR1QzQ2JOSHdJdFZoR3Q1R0o3VXdXeWlfM2N6WnZpd3VaSWpXWXNZYlhNNHh6a3V6bkdfM3ZqbFBDSDQ5QXctVXVmc1h5dG1jOXZyME1BTUMwTUVnVDJQcEx0NTdLZ2Y1STBPVmI5bDBaaDFHWFJpdw?oc=5) — *Reuters World (via Google News)*
-- [Trump Eases Russia Sanctions, Midterm Campaign Money, Violent Protests In France - NPR](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWVnTEI3QnlaS2tfNE9XZE85TFNmMTJDdGZNeWNRaUJNOU02Z3UwRmoybmxCdlpRbU9IOGtNaVVsNlJVRjNJRFZJY2NWbXRuUWNqLWxndEk0WUMxLXlxLTMwVVMyLXlpT0pTWXZqdk4zUW01SWNqX2pNQ3hXdVFRYUg0cW9FMWJFOGRKeFVieF9NYlJpVjl3YVFZX0d2UlQtU3NXd28tVzRCZjlLbnNwSkNfMld6SXZjRWJMNEVxRU4?oc=5) — *Reuters World (via Google News)*
-- [Can Macron Restore Order in France as Riots Deepen Political and Economic Pressure? - Modern Diplomacy](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDZDb1M0N2lTVHZJWjB0aEIyWHRRVzhmanZQZ1BOamlOakQwTmx6c2t5T0hzN3B5MDdmcWV0SGtyWWJydUw0MzhiUnNURHlacFVzTUxkNmN6UW5wRjVTNHRjcFVYTjZKMTFuSTBCeXQ5MGRfLTVnUk03M2RCMUdjU3dGUTdleXBtMmFrY2xhdXQtTlJqcG5SYzZjdS00eHRMWHk0ellCVFlvS3VCMXl2MnAxalk0VnM3YVJ1b3Z3?oc=5) — *Reuters World (via Google News)*
-- [France reels from violent protests as questions mount over public security - سانا](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BRG9oRFNjaU1URklKSnJEd2w1VHVTRTZJZy1Qb3pSLURQWUFOYnBVcVdCVTAyMFl2cFRQZ1NwX2R4RzV0T2MxN2tEMlQ3T3Z3UkVV?oc=5) — *Reuters World (via Google News)*
+### Europe (14)
+- [Tuesday briefing: Can Andy Burnham beat Britain’s headphone dodgers?](https://www.theguardian.com/world/2026/oct/20/tuesday-briefing-can-andy-burnham-beat-britains-headphone-dodgers) — *The Guardian World*
+- [EU shifts Arctic strategy towards security as threats rise - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZaU0dtLXpVTFhXY0xIZjhERzFQTTdlTEtGOFhNcGR5bE5IY3ZNZlNwb1c4WWFONUU0UGJ5WVF6MDIzMEtoeEdTMHVvMXpFUnFMeEVrRmxfbVJiSV9MYnJyRVEwSXFxMjlobGRfU1VqcUV5WGVsS1dlTWE2WkZWa0tQM04?oc=5) — *Reuters World (via Google News)*
+- [Ukraine: Returns to unsafe frontline areas: exploring the drivers of return and the experiences of returnees in Khersonska Oblast, October 2026 - ReliefWeb](https://news.google.com/rss/articles/CBMi7gFBVV95cUxORUVPZzVreXBmaFBrdHF3QkF4UlB0WVNOWTd2YzVON1N2NC1ZcVpydk55MWRUTFBKbkF2X2ppYUJyUFIxTTBpWWdBN1lEQmFqRTJRQ3o0RzFhNzgwaW9JbmdSXzVLcmRybjB4ZGgwaGVoNkRlOVpXUzZlamc1b3RXRUFMazNZb2RDYWEtbUR3alA4dUpVdFB2ZmJqYUNaSWU4cDN1TElLeFd4bWk0Zjh2Q2dwUzF5cG9wdkQ1TUdPbmtWSV95U1doY2pyLTJySVdnUW50dkJPYmVHZTUwMlBpeU9sT1poZ1pTS0cxU3dB?oc=5) — *Reuters World (via Google News)*
+- [US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia](https://www.mendocinobeacon.com/2026/10/19/trump-ukraine-russia-breaking-point/) — *GDELT/mendocinobeacon.com*
+- [Trump Open To Putin Summit Proposal With China , No Ukraine](https://newstalk1130.iheart.com/content/2026-10-19-trump-open-to-putins-summit-proposal-with-china-no-ukraine/) — *GDELT/newstalk1130.iheart.com*
+- [End of Ukrainian regime : Lavrov claims Zelenskyy fears acceptable peace deal with US , Russia](http://www.iranherald.com/news/279386152/end-of-ukrainian-regime-lavrov-claims-zelenskyy-fears-acceptable-peace-deal-with-us-russia) — *GDELT/iranherald.com*
+- [US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia](https://www.orlandosentinel.com/2026/10/19/trump-ukraine-russia-breaking-point/) — *GDELT/orlandosentinel.com*
+- [US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia](https://www.sun-sentinel.com/2026/10/19/trump-ukraine-russia-breaking-point/) — *GDELT/sun-sentinel.com*
 
-### Middle East (16)
-- [Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit](https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss) — *Al Jazeera*
-- [Israeli police arrest 10 after settler attacks on journalist, diplomats](https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss) — *Al Jazeera*
-- [Iranians report mass security warnings over social media activity - Iran International](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vbWwxWkoyX1dPa1E5NWl5bTZQT0tTbnU0MXpxNlJrOUhoTmZTVVQ5VEl0d1RkbkdMVjM2aHRpYUxBa2dkT0NFY2dQX25hT3pVQ0E?oc=5) — *Reuters World (via Google News)*
-- [WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages](https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss) — *Al Jazeera*
-- [Cuts force World Food Programme to end support for half a million Palestinians in Gaza](https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza) — *The Guardian World*
-- [Qatar warns global energy shockwaves from Iran war have yet to peak - Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VIWU5qMkFsVzFscGFuVFV1VEtOTWx1Wmg2OE1fQmZCalJJbkJNMHJid1JBUjJTLXVXYThDMEQyMVc4dGlMakxOTEFudklpU2NhdDU1Vm1xZDB1NXZ3RVU5em5IV01uTVI4T1RjMFhVbW12bV95Qy1EcnVkdURuT0Zyd3VtYVI3M25vN0RIUjVNeHJkU1dPbzYtUWw0RmJ5UWttS2g1b1NxVzUyQVHSAbMBQVVfeXFMT0V1ZDUxUjhWYW9iOENYbi1sNFhfSXlNSi12ZDZRbWJ6ZTVJWjRyd3BvUnBJZ2xRLWpSTUlnLWNVd0ZNZ0xTU2EzVUVsTWpNcXlJbkxLXzE4LVJ1OHNFM0NTQ1dxYy1IRUJLSGlqenFYeGVCVjhGVU5GYW1vSldqVE1weWRpRjhjeHk0QVFxVFE0aTBzN2hSQ2ZWYkd1YnlVaEYzQzN4TXIxcDFnNE5FMlJMTzA?oc=5) — *Reuters World (via Google News)*
-- [Qatar warns global energy shockwaves from Iran war have yet to peak](https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss) — *Al Jazeera*
-- [How Israel Can Turn Hezbollah’s Blunder Into Lasting Defeat - The Dispatch](https://news.google.com/rss/articles/CBMifEFVX3lxTE54Z0I3VmUwT3pCNTE0Y2VadV96X3RpQ095OGltOE9jXzV5Qmhaay1SdUs0WGlRNHBxRTN0SzhlU1QyQzFDM0lCdHVqbzUyRW50ei1iMVR0SGd4X01PWDc2c3d4N09NOFhKQkJmWFpmeTZXNEZxSXN2eE1tX3U?oc=5) — *Reuters World (via Google News)*
+### United States (13)
+- [Rare photos of Myanmar ex - leader Aung San Suu Kyi show her receiving books sent by King Charles](https://www.corsicanadailysun.com/national/rare-photos-of-myanmars-ex-leader-aung-san-suu-kyi-show-her-receiving-books-sent/article_c851c953-33ba-5ea4-a079-01bb7b2fb002.html) — *GDELT/corsicanadailysun.com*
+- [Scott F . Gelbard of SGI Global Partners Launches 2027 Thought Leadership Initiative Focused on AI , Cybersecurity , and Succession Planning for Mid - Market Enterprises](http://www.newjerseytelegraph.com/news/279385932/scott-f-gelbard-of-sgi-global-partners-launches-2027-thought-leadership-initiative-focused-on-ai-cybersecurity-and-succession-planning-for-mid-market-enterprises) — *GDELT/newjerseytelegraph.com*
+- [Plain Talk : North Dakota Measure 1 Debate](https://www.inforum.com/opinion/columns/plain-talk-north-dakota-measure-1-debate) — *GDELT/inforum.com*
+- [Drug War Daily Digest -- October 19 , 2026 | StoptheDrugWar . org](https://stopthedrugwar.org/chronicle/drug-war-daily-digest-october-19-2026) — *GDELT/stopthedrugwar.org*
+- [In Dublin , tech workers raise concerns about AI](https://www.delawarepublic.org/2026-10-19/in-dublin-tech-workers-raise-concerns-about-ai) — *GDELT/delawarepublic.org*
+- [The Creative Music Guild Improvisation Summit Celebrates This Year Strangest , Most Inspired Sounds](https://www.portlandmercury.com/music/the-creative-music-guilds-improvisation-summit-celebrates-this-years-strangest-most-inspired-sounds/) — *GDELT/portlandmercury.com*
+- [Plain Talk : North Dakota Measure 1 Debate](https://www.jamestownsun.com/opinion/columns/plain-talk-north-dakota-measure-1-debate) — *GDELT/jamestownsun.com*
+- [National Perspective](https://www.nrtoday.com/print_only/guest_columns/national-perspective/article_58085da5-f355-4374-bcd7-ec4c271ec583.html) — *GDELT/nrtoday.com*
 
-### Indo-Pacific (10)
-- [Can South Korea Take Wartime Military Command From the US by 2030? - Modern Diplomacy](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUFMTHRYMl9KR191akdSdHVqd045MDJNajVlb3FnMlhrRWx1TGQ5NUhNYTZTbEN0bE9WREJkako3WjdSeENUUmVfMW1OdWtsTjVtRGlpOXBwRHNtaVV3SGdYSFExR1pjeGhtbmhSY3RzRUNBYmVOTFZlS0hadUdSYjRpLXJkRkNXRG9LTVZhZUtxVjlLNE1zTDZDSUpybzM1TlJyZGR4UQ?oc=5) — *Reuters World (via Google News)*
-- [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports) — *The Guardian World*
-- [Wary of instability, China calls for deeper security cooperation with Tajikistan - The Mighty 790 KFGO](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUXhYU211SG5URGtvQ0J1ZEdNa2xfMER3M0FFWnVTaTJTYk0yajVBeENtUnQzZ1YxbEJpTlZJd05maFVtYWFURnlSNzVwYjg0LVdzUjlNVHVXV0FtRVR5MTVIY0gzZVMyem9kb29kV2NyMmkwZWVRMlJlN0dBMWZ3RzV4TTBLV1dKTnE5RHJrUlBIR2VKY1pxdTVEZy1PcWprVTJITFZ2RndpcU9z?oc=5) — *Reuters World (via Google News)*
-- [Wary of Instability, China Calls for Deeper Security Cooperation With Tajikistan - The China-Global South Project](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVVRNGdUX3o5eDJxSThFa1IxRmgxZ2o5MHJsWHdFaHFXQTFhUjJXQWJzVmpLSHNNbDVBVGRiM1hRWmJ4clJhM2Y1a0NKQTY4M05qUV9rSTVOcTBFZzE1OGFxUWx6X0xMa09vb2gwY2VZVXlsTnFTNmpndFZFOG1LNzgxQmNDZXlGQWlJZGRyaHA?oc=5) — *Reuters World (via Google News)*
-- [Japan Ground-Self Defense Force visits 7th Communication Battalion [Image 11 of 13] - DVIDS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFJEWWJabDY3d005aW9HS1lSUDJla3dIbWE2YUowa2JWVEl4MHBENVBlS0JOSUkwSFpvbmQtWV9PMkpNTUlCdGRaQXNXWlVvQzFZODd1Q3Jkd2tMRzVDOHQ1cEZyU0hjZFdCdGxScG5wdjk2b3hPMjZVbjByQS1VUU1iSWtZMmZpX2FJQW52bms1RmZwd29uRVhGeTdPMnhNdmVXN3o4akladw?oc=5) — *Reuters World (via Google News)*
-- [Japan Ground-Self Defense Force visits 7th Communication Battalion [Image 12 of 13] - DVIDS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUGlOR0Z4Z3A4aXMzbDZvbGdrMmIzaDFpXzlHdVkwcU1wTllXUzA3NXBrd3doS3h3OTFKWURMQmVzM0hVWXpEdVR2bkZJeF9SX1lqZjc3UkVjbU55Ylgta1JvLVdfaHFFYVpPVE5Db3dyVzI0ZWJYSkNoQW1rMk1kc05HMmNWaEZHdEw4T21IQVV3OWpaYzZlVm9SR1VETS1CaGxpTFpGSUJ0UQ?oc=5) — *Reuters World (via Google News)*
-- [Japan Ground-Self Defense Force visits 7th Communication Battalion [Image 10 of 13] - DVIDS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVpQWFBOS3RWTXhfd2l1TzllSXY1bWZBMU9RZWdyS3RrVGU0dkJnX1hNemZaMnl1djRwTHhPaWVaVHJzdWZPN3JtYl9xY1lGNThsbWFVU0YyNXh3Xzk2aTFnZmhSVWt1S1IwR3YxbkR5bWJDQllIVVpUSkdvNDJsdXd6S2JqdnBzMXpqYVJwcjNHUGZpNTdEY3J0WFNDRkdkOFdUWjFnU01jQQ?oc=5) — *Reuters World (via Google News)*
-- [Japan Ground-Self Defense Force visits 7th Communication Battalion [Image 13 of 13] - DVIDS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbncxMDhhN2kwVmVtd3JGenNyMkVETXZOVnBVY05ST1NhWk43RjdFTHVKcUZMYXl6SG1HUEdFN0hFMkU4c2ZHUWFORk4tUlJKeHhVT2t4ZmtpUzA3NXc0alMwTGlxalU4ZzhheFlpMWJUU3FxVnFjeDY4WlEtM3RKTXBDSmdCNVVzcnNDN1huSEJBd0oyTklYQllzVDlfOVlVVVVWNGhOWGdXUQ?oc=5) — *Reuters World (via Google News)*
+### China (8)
+- [舞步踏一起 生活在一起 （ 铸牢共同体 中华一家亲 ） -- 时政 -- 人民网](http://politics.people.com.cn/n1/2026/1020/c461001-40817707.html) — *GDELT/politics.people.com.cn*
+- [美狠批泽连斯基  不想结束战争 ， 乌总统强硬回怼 ： 这是逼迫乌克兰投降](https://wallstreetcn.com/articles/3783973) — *GDELT/wallstreetcn.com*
+- [汇聚工商界力量 共建亚太共同体 -- 经济 · 科技 -- 人民网](http://finance.people.com.cn/n1/2026/1020/c1004-40817730.html) — *GDELT/finance.people.com.cn*
+- [从消费白马到硬科技 ： 近十年A股  股王  轮动折射产业变迁 _ 新浪财经 _ 新浪网](https://finance.sina.com.cn/jjxw/2026-10-20/doc-inivuvrz7734270.shtml) — *GDELT/finance.sina.com.cn*
+- [Maritime Silk Road to boost development of global blue economy | Hellenic Shipping News Worldwide](https://www.hellenicshippingnews.com/maritime-silk-road-to-boost-development-of-global-blue-economy/) — *GDELT/hellenicshippingnews.com*
+- [长征永远在路上 写在中国工农红军长征胜利90周年之际](http://www.81.cn/jwtt/16494719.html) — *GDELT/81.cn*
+- [绿水青山千秋画 红色文化永铸魂 -- 时政 -- 人民网](http://politics.people.com.cn/n1/2026/1020/c461001-40817683.html) — *GDELT/politics.people.com.cn*
+- [深圳APAEC ： 或成為新的雅爾塔會議 - 博客](https://blog.wenxuecity.com/myblog/80320/202610/13502.html) — *GDELT/blog.wenxuecity.com*
 
-### Africa (3)
-- [Ethiopia's civil war threatens wider conflict as Somaliland offers Addis Ababa a route to the sea - i24NEWS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRTVvMFRiMS1rT2dOYTVXUHphb05QVWNnN0xIcXJaYkwzYUNkT01SYW5IOEhGQm9LekxHUHk1VTdPVjc0enVLcXRQcW9wbGFVcHdJM2lQZ2xxYVNLRDRRQ0ZYc0ZJYVdaVTBrX1B0Qll5alh2RS04MURMMGRpaWQ3Y2FsRVBpU2o1ZExHOHdsb2g2NDlZcFFEVC1CUVpuY0xad2ZMQVYxNjh5YWdSeEswTUF4UVluN0Nqc3pxLWlKNmdxYUlSRV9FYlFVVzIxMU9VMlFCLTB3Zk9oV2VYemptS055aEVVSWdMaHc?oc=5) — *Reuters World (via Google News)*
-- [US reveals why it eased sanctions on Eritrean targets as Ethiopia, Eritrea deploy more troops and risk drawing other countries into war - Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdk9Fdm42TWVPOHdOa1pGdXdCYVVGalpoMkZGQUdMTUE1d2plWktJTGc3bXN5QU1zVzhKOTJzWjhOZEZHd1k0aF9mNjVoV0k5THhrSjZyM1FWQnY2RDVNMVQyYjc0TjlScUlsOVlXVXcyMzM4YUs4cXNfQlh4M1dEVEJ6VVpUYS16QWtHM1lLeUVGZGgyS255NjRlNWljOHpQVkZxTGlvd3Q0bWhNV3lQRFZQcXd4NEhqLXVlQVZNUk5MaEEyZnM1MHpnSnNVOVpvODhpdHprclZiZw?oc=5) — *Reuters World (via Google News)*
-- [DR Congo: Ebola outbreak deepens mental health crisis amid stigma and conflict - Africanews](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGJMRmVBV2tTTnQ1blFWX1ZJVlRmdUdud0VoSE5qSWZMNlBaOGl5bENjYzloYmg2TnVZUzFXMWRmWjF6Y08yS3ExcEk2MjEtMVlkM0xRQm9DRkNmbHVkSDBEa0d5WUJ4bGRuV2JodmtxSzd6ZnZ4ODhCYmIyN1I5RC1QQS1FMEcwa0JlMDZ1WFI1OFFETjNDOFFUajktb19ZMkpXTVlMTExwVWpOQ2lGU3JFLWxtd2vSAbwBQVVfeXFMTjhralBZQVlwa0hxcU1UaGI1ekRqeTF5d3ZabkprQmxaX09qOVFjY3lUcVpBaEt0aFU3TXhIdDlMUmZuV2MwZlk5VVFWZTNYVXNGcHRNdTEtb2RnSWNxbldaUENjdm03bGJycWwxcTYwdXFDc3hZVHZJWjVyallUc2xmd2lmSzJvajMxRTREbzdwOUJ2SU95TEJ5Y2UtOXMwLWZOVDd5dE9wSGJBQzBhTUJ4Y3FfdldheC1pMVY?oc=5) — *Reuters World (via Google News)*
+### Middle East (5)
+- [Israel’s elections 2026 explained in maps and charts](https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss) — *Al Jazeera*
+- [How Israel’s strategic hesitation in Judea and Samaria undermines security - Israel National News](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuTXdCLXV0S1JUa1dZenVZbjF1dmVyZVBvQVBtS2JOOGxDeTFHb2gwMkpEeVVyaHVBRkg2QnJNa0d5WlA4QTVtZnpSQXVSbmFURnV1a3hUZE9wdw?oc=5) — *Reuters World (via Google News)*
+- [Plurality of active-duty service members oppose Iran war: poll - Responsible Statecraft](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcGxTUW5YLV81YWtUcUR4X1poRUVBN2dOU3RLeFkwODlzNjhLTzVFbXI3dkpXOUtNdk4tMDdzMjJ6UkxhQUo5c3RFTDBEN01yZ3NSOXBabzZKRUdjbmU5U0k0akdFdHhI?oc=5) — *Reuters World (via Google News)*
+- [Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks](https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss) — *Al Jazeera*
+- [Israel đe dọa áp đặt  mô hình Gaza  lên Lebanon](https://giaoducthoidai.vn/israel-de-doa-ap-dat-mo-hinh-gaza-len-lebanon-post796669.html) — *GDELT/giaoducthoidai.vn*
 
-### Americas (2)
-- [Museum protesters in Colombia accuse gov’t of erasing history](https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history?traffic_source=rss) — *Al Jazeera*
-- [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods) — *The Guardian World*
+### Russia (5)
+- [Песков высказался о сроках визита Си Цзиньпина в РФ](https://news.mail.ru/politics/72780738/) — *GDELT/news.mail.ru*
+- [В Кремле не назвали сроки следующего визита Си Цзиньпина в Россию](https://news.mail.ru/politics/72780716/) — *GDELT/news.mail.ru*
+- [Пушилин назвал новые санкции ЕС информационным пшиком](https://news.mail.ru/politics/72780730/) — *GDELT/news.mail.ru*
+- [МИД прокомментировал возможную встречу лидеров России , КНР и США на саммите АТЭС](https://www.vesti.ru/ns/mid-prokommentiroval-vozmozhnuyu-vstrechu-liderov-rossii-knr-i-ssha-na-sammite-atehs) — *GDELT/vesti.ru*
+- [Израильские боевые роботы атаковали блокпост ливанской армии :: Новости дня / ВЗГЛЯД](https://vz.ru/news/2026/10/20/1465073.html) — *GDELT/vz.ru*
+
+### Indo-Pacific (4)
+- [Japan launches historic mission to bring back Mars moon samples](https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss) — *Al Jazeera*
+- [Opinion | The evolution of China’s active defence doctrine - South China Morning Post](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWRkQndwNWdQMzBvRUl3M2MtOTVMVXZlOHBoTVlXeFhCTjFoZ054Y1l2WEVxTGpVS1U4ajVjdjMwd2diMXRFakpCX1NaLWhuc0xNNDBTM2owNVdCa0hyNVViaDBTTGpRaVZSZW00Tkh2a3B1RU5ZbnlmQTFadkJqYVFwQVVTdFVJT3FYcHpDeGY1eHpDS3hydEZ2bXQxMjJqTVJUQkJkeFRMeUlrdGcxZg?oc=5) — *Reuters World (via Google News)*
+- [Global Potato Summit 2026 to Highlight Rising Potato Exports and Processing Opportunities in India](https://www.potatopro.com/news/2026/global-potato-summit-2026-highlight-rising-potato-exports-and-processing-opportunities) — *GDELT/potatopro.com*
+- [India : LoC Infiltration Attempts Persist](https://slguardian.org/india-loc-infiltration-attempts-persist/) — *GDELT/slguardian.org*
+
+### Africa (2)
+- [The human cost of surging US air strikes in Somalia - Al Jazeera](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDJwZkpNdU1jZ2FRZHR6RVh5TFNTb2l1cDlqblZacVNaUU54bTlGTkkzNVZ4ZGpGSWNwaWwwVWMydTVsczBIRTFIMTFHOWRnRnpIMF9td0hsVXRmeFJyaTV2ekkzNmlza3JzaDBPOFpETUR4cVBjLW1iVVRjd2ZDSm1UZHY2TFhHRWVGTlFCSWk5WUN4ZzZ3S1F5VldldE3SAaQBQVVfeXFMTnpIbFozdHN4MkNpN04xTFhUZ241ekpuNGs5eE5WeWdnY3k2dHREYzdqNk5DMUNkUnU4VjFlTFZCRDZYTkZLRmdkYUxfWU1hUzgzU2VvSUtwR1pwaTZSRWZTc2VzQjlVVVNMZnhhaXpXLVhXTGJiSVh6Y3lzbEFGQ2wyS2F4Q0ZDaUQyYlhid0tpSEpEN3JVMHNqdWFHLTVKSHhCOXY?oc=5) — *Reuters World (via Google News)*
+- [The human cost of surging US air strikes in Somalia](https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss) — *Al Jazeera*
+
+### Nigeria (2)
+- [Angola : Nandi - Ndaitwah propose une industrialisation conjointe entre le pays et la Namibie](https://fr.allafrica.com/stories/202610190745.html) — *GDELT/fr.allafrica.com*
+- [Angola : Le pays et la Namibie signent huit instruments juridiques](https://fr.allafrica.com/stories/202610190741.html) — *GDELT/fr.allafrica.com*
+
+### Germany (2)
+- [Selenskyj nicht eingeladen : Trump erwägt Dreiertreffen mit Putin und Xi](https://www.n-tv.de/politik/Trump-erwaegt-Dreiertreffen-mit-Putin-und-Xi-id31436121.html) — *GDELT/n-tv.de*
+- [Was geschah am 20 . Oktober ? - Weltspiegel - Reutlinger General - Anzeiger](https://www.gea.de/welt/weltspiegel_artikel,-was-geschah-am-20-oktober-_arid,7172370.html) — *GDELT/gea.de*
+
+### Mexico (2)
+- [Cómo elegir el mejor seguro de viaje para Estados Unidos - Entre Líneas](https://entrelineas.com.mx/como-elegir-el-mejor-seguro-de-viaje-para-estados-unidos/) — *GDELT/entrelineas.com.mx*
+- [Luis Cárdenas señala fractura interna en el PAN de Chihuahua por el caso de los agentes de la CIA](https://www.omnia.com.mx/noticia/446254/luis-cardenas-senala-fractura-interna-en-el-pan-de-chihuahua-por-el-caso-de-los-) — *GDELT/omnia.com.mx*
+
+### Brazil (2)
+- [Campanhas de Lula e Flávio identificam erros e preparam ajustes para confronto na Globo](https://www.correiobraziliense.com.br/politica/2026/10/7523205-campanhas-de-lula-e-flavio-identificam-erros-e-preparam-ajustes-para-confronto-na-globo.html) — *GDELT/correiobraziliense.com.br*
+- [Debate da Band expõe necessidade de checagem de fatos e formato ultrapassado](https://noticiasdatv.uol.com.br/noticia/televisao/debate-da-band-expoe-necessidade-de-checagem-de-fatos-e-formato-ultrapassado-158233) — *GDELT/noticiasdatv.uol.com.br*
+
+### Colombia (2)
+- [Donald Trump frena nuevas sanciones a Rusia para intentar bajar el precio del diésel en Estados Unidos](https://www.portafolio.co/internacional/donald-trump-frena-nuevas-sanciones-a-rusia-para-intentar-bajar-el-precio-del-diesel-en-estados-unidos-504749) — *GDELT/portafolio.co*
+- [Pasto : la ciudad donde emprender parece , a veces , una prueba | DIARIO DEL SUR](http://diariodelsur.com.co/noticias/pasto-la-ciudad-donde-emprender-parece-a-veces-una-prueba-de-resistencia) — *GDELT/diariodelsur.com.co*
+
+### Italy (2)
+- [Ariano Irpino , polemica sulla circolare dopo lo sciopero degli studenti : « Lassenza è illegittima »](https://www.ilmattino.it/avellino/ariano_irpino_polemica_sulla_circolare_dopo_lo_sciopero_degli_studenti_l_assenza_e_illegittima-9835270.html) — *GDELT/ilmattino.it*
+- [Passante ferito da proiettile allocchio a Napoli . Il gip : « Stesa e lesioni , due in manette »](https://www.ilmattino.it/napoli/cronaca/passante_ferito_da_proiettile_all_occhio_il_gip_stesa_e_lesioni_due_in_manette-9835437.html) — *GDELT/ilmattino.it*
+
+### Australia (2)
+- [Indi MP Helen Haines struck by car in regional Victoria | Port Macquarie News](https://www.portnews.com.au/story/9371565/indi-mp-helen-haines-struck-by-car-in-regional-victoria/) — *GDELT/portnews.com.au*
+- [Trump open to idea of joint meeting with Xi , Putin](https://www.crookwellgazette.com.au/story/9371659/trump-open-to-idea-of-joint-meeting-with-xi-putin/) — *GDELT/crookwellgazette.com.au*
+
+### Romania (1)
+- [Mașină în valoare de 114 . 000 de lei , furată din Italia , găsită în Vama Albița - Vremea noua](https://vremeanoua.ro/masina-in-valoare-de-114-000-de-lei-furata-din-italia-gasita-in-vama-albita/) — *GDELT/vremeanoua.ro*
+
+### Vietnam (1)
+- [Từ phần mộ khớp thông tin nơi đất bạn Lào , người mẹ già thêm hy vọng tìm con](https://baohatinh.vn/tu-phan-mo-khop-thong-tin-noi-dat-ban-lao-nguoi-me-gia-them-hy-vong-tim-con-post319023.html) — *GDELT/baohatinh.vn*
+
+### Macedonia (1)
+- [Kremlini thotë se Putini , Trumpi dhe Xi mund të zhvillojnë – muajin e ardhshëm – një takim trepalësh në Kinë](https://almakos.com/kremlini-thote-se-putini-trumpi-dhe-xi-mund-te-zhvillojne-muajin-e-ardhshem-nje-takim-trepalesh-ne-kine/) — *GDELT/almakos.com*
+
+### Canada (1)
+- [Citigroup Declares Common Stock Dividend](https://www.simcoereformer.ca/press-releases/business-wire/citigroup-declares-common-stock-dividend/) — *GDELT/simcoereformer.ca*
+
+### Argentina (1)
+- [Investigarán a un vecino por la crueldad y muerte de perros](http://diariojornada.com.ar/425522/policiales/investigaran_a_un_vecino_por_la_crueldad_y_muerte_de_perros) — *GDELT/diariojornada.com.ar*
+
+### Greece (1)
+- [Τραμπ : « Και στην Ιταλία , όπως στη Γαλλία , οι διαμαρτυρίες έχουν σχέση με τη μετανάστευση »](https://bankwars.gr/trab-kai-stin-italia-opos-sti-gallia-oi-diamartyries-echoun-schesi-me-ti-metanastefsi/) — *GDELT/bankwars.gr*
+
+### Sweden (1)
+- [Narkotikaklassade sömnmedel smugglas – beställs av kvinnor](https://www.tv4.se/artikel/gaoLFq6LfqVJeTZMUTIwj/larmar-om-smuggling-av-soemnmedel-som-bestaells-av-kvinnor) — *GDELT/tv4.se*
+
+### Israel (1)
+- [Flight Restrictions At Southwest Border As Cartel Drone Incursions Continue](https://www.worthynews.com/118316-flight-restrictions-at-southwest-border-as-cartel-drone-incursions-continue) — *GDELT/worthynews.com*
+
+### Netherlands (1)
+- [Turnsters grijpen naast landenfinale op WK in Rotterdam , Visser wel naar twee finales](https://nos.nl/artikel/2635860-turnsters-grijpen-naast-landenfinale-op-wk-in-rotterdam-visser-wel-naar-twee-finales) — *GDELT/nos.nl*
 
 ---
 *No LLM key set — this is the free grouped digest. Set `ANTHROPIC_API_KEY` for a synthesized brief.*
