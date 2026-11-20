@@ -1,6 +1,11 @@
-# Daily Brief — 2026-11-19 15:28 UTC
+# Daily Brief — 2026-11-20 15:05 UTC
 
 ## ⚠️ Signals to watch
+- **📈 'maritime' spike: 82 items in 6h (was 1)** — 82 events tagged 'maritime' in the last 6h vs 1 in the prior 6h.
+- **▲ 38pt swing: Will a Democratic Party candidate win the 2026 CA-28 House election by 5%-15%?** — Polymarket: 7% → 45% over ~24h
+- **▼ 37pt swing: Will the Democratic Party candidate win the 2026 NJ-03 House election by 0%-5%?** — Polymarket: 46% → 9% over ~24h
+- **▼ 37pt swing: Will the Democratic Party candidate win the 2026 NJ-03 House election by 0%-5%?** — Polymarket: 46% → 9% over ~24h
+- **▼ 25pt swing: Will Jensen Huang be charged by 2029 with a federal crime in the US related to chips sent ** — Manifold: 49% → 24% over ~24h
 - **▲ 32pt swing: Will a Democratic Party candidate win the 2026 CA-28 House election by 5%-15%?** — Polymarket: 10% → 43% over ~24h
 - **▼ 19pt swing: Will total votes cast in the 2026 midterm election for Senator from Rhode Island be betwee** — Polymarket: 90% → 71% over ~24h
 - **▲ 11pt swing: Will the Republican Party candidate win the 2026 OH-04 House election by 45%-50%?** — Polymarket: 0% → 12% over ~24h
@@ -11,58 +16,136 @@
 - **▲ 46pt swing: Will the Democratic Party candidate win the 2026 NJ-03 House election by 0%-5%?** — Polymarket: 1% → 47% over ~24h
 - **▲ 16pt swing: Will total votes cast in the 2026 midterm election for Senator from Rhode Island be betwee** — Polymarket: 75% → 90% over ~24h
 - **▲ 44pt swing: Will the Democratic Party candidate win the 2026 NJ-03 House election by 0%-5%?** — Polymarket: 1% → 45% over ~24h
-- **📈 'geopolitics' spike: 7 items in 6h (was 2)** — 7 events tagged 'geopolitics' in the last 6h vs 2 in the prior 6h.
-- **📈 'policy' spike: 6 items in 6h (was 1)** — 6 events tagged 'policy' in the last 6h vs 1 in the prior 6h.
-- **▲ 12pt swing: Will Jean Lassalle be on the ballot for the 2027 French presidential election?** — Polymarket: 38% → 50% over ~24h
-- **📈 'geopolitics' spike: 6 items in 6h (was 2)** — 6 events tagged 'geopolitics' in the last 6h vs 2 in the prior 6h.
-- **📈 'policy' spike: 4 items in 6h (was 1)** — 4 events tagged 'policy' in the last 6h vs 1 in the prior 6h.
 
 ## By region
-### Unsorted (79)
-- [Will the Democratic Party candidate win the 2026 TX-33 House election by 60% or more?](https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-tx-33-house-election-by-60-or-more) — *Market/Polymarket*
-- [Will Teddy Riner be on the ballot for the 2027 French presidential election?](https://polymarket.com/market/will-teddy-riner-be-on-the-ballot-for-the-2027-french-presidential-election) — *Market/Polymarket*
-- [Incoming House Oversight Chair Garcia touts settlement sanctions bill - Jewish Insider](https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzZ3NVh3Tkw0ZlVKN29PaUxzRnc0UG14Z3NIaUpyYW81WWc2MWlDUUZSUk4teEpTcWJTSDlSbWprLXhOQlB1TDN4YlBnbm5qdVlrbllsanFKN2VhVHRLcTJvemxHeFJsZTBwR2FjRk5ndHBtSmxETGRyRVJwa2dKZXoxWmh1UXR2ajdqVXNHMnJTaDkyM3N4czV0XzE?oc=5) — *Reuters World (via Google News)*
-- [Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live](https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates) — *The Guardian World*
-- [Italy’s cyber defence challenge: Crosetto calls for €6 billion and 5,000 specialists - Decode39](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkxOQm9aeTRYUzJ3dkFxcU9CTmpZYlUyUDR6aEZVRmJCUVh2MExpQ25HR2g3ZTVSMWtMV1Q5cEY1Y2xqV3FvOFV6NDlDdzkweENjeVN5REZ3YWZuRnVWS1IzaHBUSTlGTDVnMTlrSE5RRG1JZFpmbGlnd1FIZkUtMUl3Z0lRZU1VMnp3U1Rfd2U3Qjd1cHNINkhYNU9zamxSQklQVnM4YjZMclBiVWc?oc=5) — *Reuters World (via Google News)*
-- [Kenya’s marathon champion Peres Jepchirchir gets three-year ban for doping](https://www.aljazeera.com/sports/2026/11/19/kenyas-marathon-champion-peres-jepchirchir-gets-three-year-ban-for-doping?traffic_source=rss) — *Al Jazeera*
-- [Honeywell says F124 engine family exceeds 2 million military operating hours, expands production capacity in Phoenix - Defence Industry Europe](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbk5ZdnNVRVVOZDlGNFZnZkFBemdpMUljN1dZSkNIb05Na3cydXVranNkT1ZiYkdXRDBfNXZjZjdUYVdqMUVLVEtLdDFQMTJTY1RaNXN3ZHplSlRweWRDc2FrRlVFOWN6dWVGcU1HN25DWGZWRExMcUcyT3JabjhUbDZVYUlLSVR4cjhzaktfSFl2cElOYzRJMlJoZUtqZkVheUcxRW93NXBkZkxlNGNPOWFDdUFpNUd5cXdpVnJxZjRQUzltYWpXT2VOLUVsaWdqVGRrTjliYTdEN3hI?oc=5) — *Reuters World (via Google News)*
-- [PHP security Groundhog Day: another round of patches to address critical flaws - Cybernews](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTzMwMzhqcDliOXpaZjFLNFZxbDJMck5hR2Y1T0l0TkF0YjRhaW82ZF9OTkYtZ2h4RkN3UEpDamdJQmxFTGZ5MGRtTXFpb0Q5Z0FWNEs3Sy1CbjJYZ1NkQkljZGxKaVlHYTBmOUZEV0ViUUt6VnRnVHBXel9JOC1WbEZnbTg2XzI3?oc=5) — *Reuters World (via Google News)*
+### Unsorted (36)
+- [Will Swiss voters approve the War Materiel Act amendment easing arms exports in the November 29, 2026 referendum?](https://manifold.markets/CalibratedGhosts/will-swiss-voters-approve-the-war-m) — *Market/Manifold*
+- [Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season?](https://polymarket.com/market/will-jaxon-smith-njigba-win-the-2026-nfl-offensive-player-of-the-year-award-for-the-2026-27-nfl-season-20260716005216294) — *Market/Polymarket*
+- [Household rush to stockpile emergency supplies sends British retail sales soaring](https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring) — *The Guardian World*
+- [Joanne Young praised for bravery in exposing rape by husband and strangers](https://www.theguardian.com/society/2026/nov/20/joanne-young-drugged-raped-by-husband-praised-bravery-anonymity) — *The Guardian World*
+- [El Salvador’s Bukele seeks third term after constitution change](https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss) — *Al Jazeera*
+- [US robbery suspects charged over alleged $22M train heist spree](https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss) — *Al Jazeera*
+- [Lionel Messi of Inter Miami tops Major League Soccer salaries](https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss) — *Al Jazeera*
+- [The Gambia stood up for the Rohingya, now the world must act](https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss) — *Al Jazeera*
 
-### Europe (14)
-- [Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live](https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates) — *The Guardian World*
-- [US envoys to join Berlin talks on Ukraine peace framework, security guarantees - Anadolu Ajansı](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXMzbzFlcVdKQkJsZ2dUdk9fQ2lCTUxBRm1iMFZ2QTFuRVd0bzNXZkFJNkxBdGk0NmZPU3VjZW5pT3RTQU8tdGJrNUZqVWRNckFJZkJEdWlpRTl6cVdJdGFkN2NwbmlFWm5ualBWVGdFYVVySUNWZ2pDNFE0QkdVOEh0ZmZaR21oejYtRlZKOU9zUDlzTXVZakR1RzBwbDgyYzAtNEtPRWlJeGRha3d0NkpxWjB2NG9q?oc=5) — *Reuters World (via Google News)*
-- [South Korea tightens security for national exam over AI cheating scandal - France 24](https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUlnaS1RWm5VMnFVd3A5bDFxOVlRRkJNc1JKUVdOY0otcWo1SXQ1dHl0TXNwdjA0eDBZZGxYOFFrVEEwN3RTclBqWDN3eHF1TjR5a25zaGFQNFJZY3hrSDhGcEJrN1E5NlR2WG1VcDhtNGVLQjNOejB5UmRVRDZkNE1mbS1FU1pDWTgwN1FGM1FjU2JEa2c2OWYxb2l5aFBUd2c?oc=5) — *Reuters World (via Google News)*
-- [Trump meets Putin and Xi as trilateral US, Russia, China talks begin](https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss) — *Al Jazeera*
-- [France stands by presence of its military personnel in Ukraine, says foreign minister - Anadolu Ajansı](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUdTaTUwRFo4VjZHRjBVT2RIT1c3N0NuOTIwTzdGblYzaVpCclp4STNiREdxRV9FZ0NwYmZONXJ5a1FWWUphU05lUVFNUTNOQTAxM0VHenU5S3U3UHZDaTB2UUtUeTQ1ZHF3WlpDLThSN3E0a1dsdXQwZE96RnJQNVYtWWFJbFpTM21WSUVfREFmMmlBMzdyUVpqLXdFaS1FOG4yYmVrQ3EyZ3l2bkZHWFM0dnZ2bkZjVENJMS1tSEZWdw?oc=5) — *Reuters World (via Google News)*
-- [Russian Drone Incursions Expose Moldova’s Growing Security Vulnerability - EU Today](https://news.google.com/rss/articles/CBMib0FVX3lxTFBlZkNCWEVVVFR5dzhwcGtPc2dpNFhEZFVYWlJTXzVxVlpDcGtxa3Z0ZlZWS3J6Z19rWTZCR196N2JBLTZSajBlUGU0RkIwbkE1ekxQQWpaQ09HM05vd0ozVWl6cmtfeVZvUE9ncmFEYw?oc=5) — *Reuters World (via Google News)*
-- [EU establishes new sanctions office targeting Russia, North Korea - NK News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQUTVrTlJ1cW9NOE9RclNCd0hOYjBIck5kbWFyNlVDMk5pTHNZZ2ZuZnM5NndhT3RRdXZHVGJEakNnNDhZbV9nZnRPX09Cek9EY3RReGc5WGg3Z203R3dXVDFrb0g5bTRNVVFtdlpiZDYzLXUyWEJFQU54eTFhUlAtaC1oblNEVU45Yk8ycHhCZTl6UEFKd002NUVjazc?oc=5) — *Reuters World (via Google News)*
-- [Middle East crisis poses 'largest threat' to energy security in history, warns IEA - France 24](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUk8tZzVZZl93N3VKZURsVVJpUW9KYmxjMm1ScTBQdXZkS1BFUzdOQnU1UGJjRHpQVWk1bXQtVzd5b21lNC1CNHdRRjgtdVdNN0lnM0g1R3haamU5Qk1NOURCa1FBbU5GYTRHUU92UDNtUUp6SW1scWZlZTNwaXN4UnozdFB2UmhyMEt3UWRsREs?oc=5) — *Reuters World (via Google News)*
+### United States (21)
+- [Brooks & Dunn React To Their Tribute Featuring Halestorm , HARDY , Luke Bryan , Brad Paisley , Others](https://thecatfm.iheart.com/content/2026-11-19-brooks-dunn-react-to-their-tribute-featuring-halestorm-hardy-luke-bryan-brad-paisley-others/) — *GDELT/thecatfm.iheart.com*
+- [Brooks & Dunn React To Their Tribute Featuring Halestorm , HARDY , Luke Bryan , Brad Paisley , Others](https://eagle929online.iheart.com/content/2026-11-19-brooks-dunn-react-to-their-tribute-featuring-halestorm-hardy-luke-bryan-brad-paisley-others/) — *GDELT/eagle929online.iheart.com*
+- [Duluth sea shanty group keeps maritime tradition alive](https://www.wdio.com/local-news/duluth-sea-shanty-group-keeps-maritime-tradition-alive/) — *GDELT/wdio.com*
+- [Will Trump agreement with Putin and Xi bring down gas prices ?](https://www.wxii12.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612) — *GDELT/wxii12.com*
+- [Brooks & Dunn React To Their Tribute Featuring Halestorm , HARDY , Luke Bryan , Brad Paisley , Others](https://wrwdcountry.iheart.com/content/2026-11-19-brooks-dunn-react-to-their-tribute-featuring-halestorm-hardy-luke-bryan-brad-paisley-others/) — *GDELT/wrwdcountry.iheart.com*
+- [Will Trump agreement with Putin and Xi bring down gas prices ?](https://www.wyff4.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612) — *GDELT/wyff4.com*
+- [Spartanburg Water boil water advisory in place until at least Saturday](https://www.wyff4.com/article/spartanburg-water-boil-advisory-saturday/74480896) — *GDELT/wyff4.com*
+- [Brooks & Dunn React To Their Tribute Featuring Halestorm , HARDY , Luke Bryan , Brad Paisley , Others](https://kbmr.iheart.com/content/2026-11-19-brooks-dunn-react-to-their-tribute-featuring-halestorm-hardy-luke-bryan-brad-paisley-others/) — *GDELT/kbmr.iheart.com*
 
-### Middle East (13)
-- [WHO: Yemen Conflict Casualties Surpass 12,700 as Fighting Continues - Yemen Online](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPaVBfSFZwOGRZQmtNbl9ZMlBHZ0kzWTI2ZExobC1XNnowUmJ6R2JRbWFMZ0dia2Yxa2FaVkhwQkFSdWtyRVNlLVAxZ0VtaVdOZUhZNHhWZHk?oc=5) — *Reuters World (via Google News)*
-- [Israeli envoy warns Australia: Sanction Israel, expect a response - The Jerusalem Post](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qUldndnJLa2dwb2NYSDhqTmtjYmlkbTMwbEZQZTZ5UTBjZmJJWWRWaU1INXlmMzFWNkxQN0ZZMEQtMFdpS1o4d00tb3JJUDRvOFlOd211UFFpSk5r?oc=5) — *Reuters World (via Google News)*
-- [Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south](https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss) — *Al Jazeera*
-- [Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims - Al Jazeera](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQm8tY2VXbVFuOVhOU0pKX2c2bDd2TzNzUGpfLVFjX1haT0ZuWWU5OG5hb3V1anhtMmM1cFNYdUZ1b2RXUTZXaFJIOW1VYl9zbXJSSmdrS2FmTnNlckQ4dkR4bjViVFd5dGRoYnBTSm9oVW9IWlJhaWtMODJiaTFoWWtPMEc1V2ZXSDBzRHRtcF9PSWh1Qmk1THlKMTN2TWU2Y2p1VjhSUjJoMHVVYXVtZFIyN1c?oc=5) — *Reuters World (via Google News)*
-- [Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims](https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss) — *Al Jazeera*
-- [Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says - The Jerusalem Post](https://news.google.com/rss/articles/CBMibEFVX3lxTE53UzVIWkdLUUpFaFJyMTk5N0JweUJfVVAtSG9jWl9Va3JCeXRSbXY1dEVFX1d6VExvTTY4a2hTM1QyOUxENVhWTWZMZFg0NGpaZ3RDdVdZZktEc1hDRWF0MWY3bElTbGp2a3RxSQ?oc=5) — *Reuters World (via Google News)*
-- [‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant](https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss) — *Al Jazeera*
-- [Iran war sparked ‘largest threat’ to energy security in history, says energy agency - The Times of Israel](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlFIQm1fcV9kOG9KZjQzRWhobmgtczdYYnVjMFVwUm9udUJwSk4taHloWmQwcjJqbGw4R2NHSmdFNWlMV3VpRVlaWm1uSy1KQXFvYmdSeHNQYnFFb2ZyTWRFX3FILXo0ckkyUmpIbVo5XzhGWTg0cDdSdEJtSjI1NldaY1J5N0dYMnlzZEh0SHhKcS1MSW4yaUFMWjljZlN0aW9mZlFHMHd6Ujl6aVRXStIBtgFBVV95cUxPam9ReE5JN3B5N2Zqd3F4bDlFRFdZVmdyNDFCdGU4Nmw2SnpqbFRoTlYxcVRsZ0dlbno0aTBlWWVIaDFYLTBjMVF4MXJDZUdZWWl5aVl0QVNKdDRLY0dFdXp1dEROdENGblhFeFRFSEZzVk5rbDZIREJydG9YWDNONkpfdF9WZlNkNnhwc0F6Y1B4NVlXcklBbGVyUUtMNHpFcV96bmFKa3hNRHZ3b1VHVm9QWUhpQQ?oc=5) — *Reuters World (via Google News)*
+### Middle East (10)
+- [UK government borrowing rises less than forecast in surprise boost for chancellor John Healey](https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey) — *The Guardian World*
+- [US maritime agency warned Iran blockade was adding to rising Gulf premiums](https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss) — *Al Jazeera*
+- [Gaza Civil Defence struggles to rescue lives as vehicles break down](https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss) — *Al Jazeera*
+- [Iraq university’s removal of male professors teaching women sparks weeks of protests](https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests) — *The Guardian World*
+- [Trump says no rush on Iran decision , looks to next year](https://www.freemalaysiatoday.com/category/world/2026/11/20/trump-says-no-rush-on-iran-decision-looks-to-next-year) — *GDELT/freemalaysiatoday.com*
+- [US Senate rejects curbing Trump Iran war powers](https://www.newcastleherald.com.au/story/9395127/us-senate-rejects-curbing-trumps-iran-war-powers/) — *GDELT/newcastleherald.com.au*
+- [Pentagon puts Iran war cost at $48 . 3 billion , excluding base damage](https://www.ky3.com/2026/11/20/pentagon-puts-iran-war-cost-483-billion-excluding-base-damage/) — *GDELT/ky3.com*
+- [Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage](https://www.wdio.com/top-stories/iran-war-costs-surpass-48b-as-lawmakers-demand-unreleased-estimates-on-base-damage/) — *GDELT/wdio.com*
 
-### Indo-Pacific (10)
-- [Breaking | Xi, Trump and Putin meet for landmark trilateral talks at Apec - South China Morning Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFVJS3VnSVp3TnE0NDZva2VpVEtmYVFpZmtIQ1ltS2pOYjA2Q2ZPa2prZEp2TTZwMGhiSXpfM0V4cXkxekt5MXR4bzNVWFJxM25zZ3VYMy05YW4yWXZfRmtfYk5WMTBIam8xRkdpdWhLLXNJeUM5RGxMLVROMnI1OWxxdTZMS2RFMndnakVhN0VTLWpFbGRUOExtdVlmUTJGaDJ2RzNGNXY3T1RNWXpaQktR?oc=5) — *Reuters World (via Google News)*
-- [Side by side in Shenzhen: inside Xi and Peng’s first-couple diplomacy - South China Morning Post](https://news.google.com/rss/articles/CBMizwFBVV95cUxNdXhuNG45OVhSMWJEYzl4TFJJUnJrUlhNcUFpa0U5cEJmNVZTT2dKNk1YN0FBQ0NxRGpYeEhXd2JlYnlZb09SMWtWdVBoSjRMUWZpYlJyVkFya2NQYlhzQms4Vm1hUjNjdVhOUnVPXzh4RFZoZ1V3b2JsQkNPU3JjOUdoUnZZMDNoWnpwaFZfZDQ4MEU5LTk4WG1zTmdLcVBWZmt6OXU1aUNzUjliTDJES0pVa3hlb1duRW5GR3dQVGdRRE1seWZuQUNleDluMzDSAc8BQVVfeXFMTnZMMEgxRlhzRERBcjZlbWpYTElzQ2hyejNtOUxFR191ZUQ3ZE9ld2llcGtIUi1OSXAtS2h4cFFDaDFUZTdaQTNLSGhRSHpsUjJQME5fTEpVLUVSdDFtMUhHRmVGT1h4WmtUaUhLQUU2RlBxeWhWMkpHMGxlb1JKUnFrTm1OWmlhZVNta3JuaDRnLVpmcU8xN3dGMHcwUUdqVGxvTmxLSWw0UlNVcEctOHBlNG9veUhNR1JaRmVsNmJzek5PVmp1Tlpqcy12aW1R?oc=5) — *Reuters World (via Google News)*
-- [‘It’s my friend’: Moment Trump greets Putin at China summit](https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss) — *Al Jazeera*
-- [US imposes new chip sanctions aimed at China - World Socialist Web Site](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DR291ZDUxMG1TQVdLV3RIY19RRy1EX2lscHREeV9ocHVSQWhMNVFnbGpKR3psSEtMMUZNQmN6RWVkQ1d0SUtOa0tsSnNCTzRCQlRSdVlhMU9JYk1LeUl1TkhyRWFiaS15?oc=5) — *Reuters World (via Google News)*
-- [Datacentres to create 70% more carbon emissions by 2030, IEA report warns](https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns) — *The Guardian World*
-- [After days of travel and diplomacy, Trump seems to nod off during Apec speeches - South China Morning Post](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWs2NTRfU05qT2ZwdkprRF9HaDhIenRvczRGRDI3Y1FDWDBGOEJZRldIbFFVMmJZcllvMDFSZjlqOFNwRFROTHVtODVEbVp5RlkzVVFCME9jaHRqR0h1TE42bk9DWWNZNVdZWmdhSVdfbWJLY1JqUmNocEtBMWNjUXBCSHIyRmtaVmRHUzBESkotWWpkV3Z5VU1UcU5tUHVPYXpWa3ZtYTVsNURJZlQzQ18yQmwyQU1LemozelQ2QWZuekxs0gHEAUFVX3lxTE1nLXRZdDhUVWJIdDdFdnlGNE9oRzNDRklOSmtLTGROQVM3NDZPUDRIM0xZTlVpZ2M3Q2pQcU1oRkF5WkZocU1ZM0JwcHB1M3R4OUZKODBZUEJJOEZYNVBSd2pneWgzTEFqSjRrZk9YZG5jTjlyTGtSVThFZUdhU0ZXMkpjWXRHQXAyOTRySzY2YjZZc2ktcWNQLWYxQ2paaU8yMG02cURIbmZfLXFKZF9aVXotUVN2NnB1Y3ZBaVFCME5SUzM?oc=5) — *Reuters World (via Google News)*
-- [This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls](https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-- [China’s Xi greets Putin and Trump at APEC before historic summit](https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss) — *Al Jazeera*
+### China (10)
+- [从150万台到200万台仅用时5个月 ， 零跑汽车刷新中国新势力阵营增速纪录](https://www.163.com/dy/article/LC5PDP2G0550WHYR.html) — *GDELT/163.com*
+- [东方财富期货早餐 11月20日 周五 _ 东方财富网](https://finance.eastmoney.com/a/202611193935320038.html) — *GDELT/finance.eastmoney.com*
+- [从150万台到200万台仅用时5个月 ， 零跑汽车刷新中国新势力阵营增速纪录](https://finance.sina.com.cn/stock/t/2026-11-20/doc-inizitcm5720774.shtml) — *GDELT/finance.sina.com.cn*
+- [Snow Land joins Cool Carriers as the world first reefer with a gate rudder , a new chapter for sustainable and efficient reefer shipping](https://www.hellenicshippingnews.com/snow-land-joins-cool-carriers-as-the-worlds-first-reefer-with-a-gate-rudder-a-new-chapter-for-sustainable-and-efficient-reefer-shipping/) — *GDELT/hellenicshippingnews.com*
+- [从大西洋到加勒比之旅 ： 英国保留的海外领地 - 博客](https://blog.wenxuecity.com/myblog/78871/202611/15460.html) — *GDELT/blog.wenxuecity.com*
+- [财说| 营销吃掉毛利 ， 倍轻松如何走出亏损惯性 ？ _ 东方财富网](https://finance.eastmoney.com/a/202611203935531611.html) — *GDELT/finance.eastmoney.com*
+- [Teledyne Raymarine Commercial Launches MyFleet Mobile App for Fleet Visibility on the Go](https://www.hellenicshippingnews.com/teledyne-raymarine-commercial-launches-myfleet-mobile-app-for-fleet-visibility-on-the-go/) — *GDELT/hellenicshippingnews.com*
+- [比亚迪申请注册  海鲸  及图形商标 ； 11月新能源乘用车渗透率预计达70 . 6 % 丨汽车早参](https://www.nbd.com.cn/articles/2026-11-19/4652831.html) — *GDELT/nbd.com.cn*
+
+### Europe (8)
+- [Andy Burnham in Brussels as UK and EU close in on Brexit reset deal – live](https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates) — *The Guardian World*
+- [Three Kyiv bridges hit during major Russian missile attack](https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+- [Senior Tories urge Badenoch to drop Brexit talk in major strategy shift, sources say](https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives) — *The Guardian World*
+- [UK and EU to agree youth mobility scheme, BBC understands](https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss) — *BBC World*
+- [EU and Britain to agree steps towards relations reset](https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss) — *Al Jazeera*
+- [Kushner: Trump open to NATO-like security guarantees for Ukraine](https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss) — *Al Jazeera*
+- [Will Russia name a target date for reopening the Crimean Bridge to road traffic by December 15, 2026?](https://manifold.markets/Terminator2/will-russia-name-a-target-date-for) — *Market/Manifold*
+- [Europe ready for talks with Russia on ending war in Ukraine, leaders say](https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### Indo-Pacific (5)
+- [Islam set to be the largest religion by 2035: Where will most Muslims live?](https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss) — *Al Jazeera*
+- [China issues Mount Fuji warning as family of missing climber offers reward](https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+- [Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears](https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss) — *Al Jazeera*
+- [China Detained Nearly 500 Panama - Flagged Ships . US Panel Wants Trump Armed With Sanctions .](https://www.ibtimes.com/us-commission-china-panama-ship-detentions-3809988) — *GDELT/ibtimes.com*
+- [US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’](https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years) — *The Guardian World*
 
 ### Americas (4)
-- [US and Venezuela sign military agreement - Tomorrow's Affairs](https://news.google.com/rss/articles/CBMieEFVX3lxTE9iQkQwWlliYnlUVkdZWHVKZEpsUF9tcXlaRm5NTERqUEw5ckJsNmtSWVdaUHN3U0pvdmdHQ1BHUFg2eHZlSkJLUXg2UXRuMmstY1NwSTVMVGE3LWVPT0xVeEM2Q0VIZmpQbWpkeUVyXzEyaTJkTmxxcA?oc=5) — *Reuters World (via Google News)*
-- [Why is Pete Hegseth strengthening US military ties with Venezuela? - Al Jazeera](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQzFuSFdVOHZFcUZ4bmNhTGJrUXVMZ3NJVTdTRmVqWFBzam1tYjZ2djZSd2p6bEhSbFJNOFdjbkVwZG5tdFNfMlBTeG9FSTNTTE9FcHdaRjNXWk1XbWlyc2VLMFhydlNGVHE1c2k1ZW16S01nV21tSU9vb1VJRjJKLTNKMlRaXy1CZkJIR0ZZaVVGazBjZmhzM3MtaFE1cnFMV1FmdnQzNXI0RnPSAbABQVVfeXFMT3hWSGRtNlMzRWpuMkRtUmExVktBdGdCUWZMLUZxWVpldERGOHVQcFNnLVJONGdPNlZxOEt4QU9rOVllTEZQMXRCbVhrOC1FeXpycUlGWDVScF9sSVFaOEdscVZlX3BTTF9HbV9JV3RWdGRmRzhMZHdPNlNTbXc4R2xqcVl0eVdaT24wbkJUTVBEV1pDWDJRcnhGMkxjcGVRRXJwT0o3a0w0R3ZLc2RGYmM?oc=5) — *Reuters World (via Google News)*
-- [Why is Pete Hegseth strengthening US military ties with Venezuela?](https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss) — *Al Jazeera*
-- [Hegseth unveils new US-Venezuela military deal - Al Jazeera](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDJuYzROMUt6dTdZODVxLTdQdEpRbkZaZVlVMW1HQnYwM1ROaWJvd3lkTjN1OHdVNGpNTEhJMjhleDFMQ3NiZ0lRbnpaVTFJLVo5RVc3WHl5SXdYb3FiVWlwdlg3b0ZMaFJESVpJTkRzeGtzTy1kMFVkU0RWblZ2OEF2bk5FQU9NNDRyeXJWTm92WEJvR051RGNsWDQ2UknSAaQBQVVfeXFMTzZZRlMxSGtpNjFXT0VLV1pPbi1GMUFqa1IzRG1BZUxnRmdXb0VkS2RTWDlic1VsVU42cmxHV3NxYmZkOFdHRnVKUHFFZDVNcTZRNWhkYldFV203WXgyMVUzNS1XM0NnWWtfbzRtNWlqVWFWOFdnYmV2YUQ4Qlg4dVRLVjBDeTl1Z3hZMU5TRkFEYlRUZHdNM19SanVtZnpBNlJaRzQ?oc=5) — *Reuters World (via Google News)*
+- [Thousands protest Colombia’s tax plans amid row over US military role](https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss) — *Al Jazeera*
+- [Lula visits ailing Chief Raoni as Brazil recognises Indigenous land](https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss) — *Al Jazeera*
+- [Haiti police say 34 gang members killed in capital raid - Al Jazeera](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHp5UXdvRXdscnFmZzdOTkJ2aGpoVzRra2U3Q3kyMmdPaXljdExsYXp1T0VrZ2tDUEctYzBZU05iZ0JNdDB5MHMwamFIUnBCdGNpd0taZUozTTQyWV9VRENnT3R3bUdTOEJ3NkFqRGNxTm9MWmRzQ2xPdG8ycWp3NDVyakNuSUQ3Nk03Z2wyWmE0N0NGZ2ZoYXUyN1VycnFxWlM0bHNUemZGcG_SAbABQVVfeXFMTmxHekRqX05oOHBHTzBLYzBUeENieEhBVTd6Ynp6ZHA1MnJpNHJDREdOd1l3bXJMa1dIZmtYTXU5ZEk0bUt0RU1aWlJTa1RXaHZEV0p6RjZaeXZuTlpnblZ4VW9zcTMyM2dFQTBoSjFORGhwdEI0M1NoVlVYUEg4TGR5YTZLWkpWU0h3MUlaX3dHMlQwVUxHcnptcU54LXJ6RHM4NEt6V2FMd0JobHJMbzk?oc=5) — *Reuters World (via Google News)*
+- [Haiti police say 34 gang members killed in capital raid](https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss) — *Al Jazeera*
+
+### Madagascar (2)
+- [陸文浩觀點 ： 共軍台海警巡節奏轉變 ， 中俄轟炸機群將與共軍航母艦隊聯訓 ？ | 陸文浩 | 評論](https://www.storm.mg/article/11183058) — *GDELT/storm.mg*
+- [揭仲專欄 ： 中共軍演 ， 俄轟炸機侵擾台日─葫蘆裡賣的究竟是甚麼藥 ？ | 揭仲 | 評論](https://www.storm.mg/article/11182927) — *GDELT/storm.mg*
+
+### Malaysia (2)
+- [Port Klang leads Malaysia next maritime chapter](https://www.freemalaysiatoday.com/category/opinion/2026/11/20/port-klang-leads-malaysia-s-next-maritime-chapter) — *GDELT/freemalaysiatoday.com*
+- [Police still looking for witnesses in probe into navy cadet murder](https://www.freemalaysiatoday.com/category/nation/2026/11/20/police-still-looking-for-witnesses-in-probe-into-navy-cadet-s-murder) — *GDELT/freemalaysiatoday.com*
+
+### Albania (2)
+- [Pas sulmit me ujë e gjalpë të nxehtë në burg , i dënuari për përdhunimin dhe vrasjen e 80 - vjeçares kërkon 100 mijë paund nga shteti britanik](https://albeu.com/lajme/bota/pas-sulmit-me-uje-e-gjalpe-te-nxehte-ne-burg-i-denuari-per-perdhunimin-dhe-vrasjen-e-80-vjecares-kerkon-100-mije-paund-nga-shteti-britanik/1108160/) — *GDELT/albeu.com*
+- [Furnizuesit gjermanë të automjeteve kalojnë te prodhimi i dronëve dhe industria e mbrojtjes , ndërsa sektori i makinave thellohet në krizë](https://albeu.com/teknologji/auto/furnizuesit-gjermane-te-automjeteve-kalojne-te-prodhimi-i-droneve-dhe-industria-e-mbrojtjes-ndersa-sektori-i-makinave-thellohet-ne-krize/1108206/) — *GDELT/albeu.com*
+
+### Taiwan (2)
+- [比外套更重要 ！ 醫揭 「 3物 」 是天冷保暖王 ： 襪子也中 | 健康 | 三立新聞網 SETN . COM](https://www.setn.com/news/1941995) — *GDELT/setn.com*
+- [天冷重創心臟 ！ 低溫 「 1情況 」 害猝死 重症醫 ： 沒有三高也危險 | 健康 | 三立新聞網 SETN . COM](https://www.setn.com/news/1942006) — *GDELT/setn.com*
+
+### Argentina (2)
+- [Prefectura rescató en helicóptero a una turista alemana que sufrió un ACV en un crucero frente a Mar del Plata](https://www.rionegro.com.ar/sociedad/prefectura-rescato-en-helicoptero-a-una-turista-alemana-que-sufrio-un-acv-en-un-crucero-frente-a-mar-del-plata-4805868/) — *GDELT/rionegro.com.ar*
+- [Llegará a Flow una serie documental sobre la histórica campaña del CONICET frente a Mar del Plata](https://www.lacapitalmdp.com/llegara-a-flow-una-serie-documental-sobre-la-historica-campana-del-conicet-frente-a-mar-del-plata/) — *GDELT/lacapitalmdp.com*
+
+### Jordan (2)
+- [ولي العهد : الأردن أرض السلام وقد استثمرنا في السلام على مدى عقود وسنواصل هذا النهج](https://maqar.com/archives/777900) — *GDELT/maqar.com*
+- [ترامب : شي وبوتين يرغبان في إنهاء حرب إيران وأبلغنا طهران بذلك](https://maqar.com/archives/777894) — *GDELT/maqar.com*
+
+### Africa (1)
+- [Nigeria moves to end jail terms for attempted suicide](https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### Greece (1)
+- [Σύνοδος της Συμμαχίας των Προθύμων : Να συνεχιστεί η στήριξη προς την Ουκρανία ζήτησε ο Κυριάκος Μητσοτάκης – Τι είπαν Μερτς , Μπέρναμ , Μακρόν , Κούσνερ](https://bankwars.gr/synodos-tis-symmachias-ton-prothymon-na-synechistei-i-stirixi-pros-tin-oukrania-zitise-o/) — *GDELT/bankwars.gr*
+
+### Mexico (1)
+- [Semar detiene a cuatro personas con drogas y armas durante operativos en Puebla](https://www.excelsior.com.mx/nacional/semar-detiene-cuatro-personas-con-drogas-y-armas-operativos-puebla) — *GDELT/excelsior.com.mx*
+
+### Ukraine (1)
+- [Коллапс российской логистики - на трассе Р - 280 колонны стали мишенью после удара по Крымскому мосту](https://24tv.ua/ru/kollaps-rossijskoj-logistiki-na-trasse-r-280-kolonny-stali-mishenju-posle-udara-po-krymskomu-mostu_n3183419) — *GDELT/24tv.ua*
+
+### United Kingdom (1)
+- [Anti - migrant activist Danny Tommo to be sentenced for slashing migrant dinghy](https://www.aol.co.uk/articles/anti-migrant-activist-danny-tommo-000102000.html) — *GDELT/aol.co.uk*
+
+### Vietnam (1)
+- [Giá xăng dầu hôm nay 20 / 11 : Tăng , giảm trái chiều](https://baomoi.com/gia-xang-dau-hom-nay-20-11-tang-giam-trai-chieu-c56556843.epi) — *GDELT/baomoi.com*
+
+### France (1)
+- [TBT9 :  Tu naimes pas Noël !, Gilles Verdez refuse de parler de  vacances de Noël  et sattire les foudres de Cyril Hanouna](https://www.melty.fr/tele/tbt9-tu-naimes-pas-noel-gilles-verdez-refuse-de-parler-de-vacances-de-noel-et-sattire-les-foudres-de-cyril-hanouna-2363304.html) — *GDELT/melty.fr*
+
+### Colombia (1)
+- [Brote gastrointestinal afecta a 148 personas en crucero que | DIARIO DEL SUR](http://diariodelsur.com.co/noticias/brote-gastrointestinal-afecta-a-148-personas-en-crucero-que-recorre-el-caribe-y-tiene-prev) — *GDELT/diariodelsur.com.co*
+
+### Nigeria (1)
+- [African negotiators accuse nations of fossil fuel hypocrisy](https://punchng.com/africa-faults-nations-preaching-fossil-phase-out-pursuing-oil-deals/) — *GDELT/punchng.com*
+
+### United Arab Emirates (1)
+- [« طيران الإمارات » أفضل شركات الطيران في العالم](https://www.emaratalyoum.com/business/local/2026-11-20-1.2104551) — *GDELT/emaratalyoum.com*
+
+### Bangladesh (1)
+- [সৌদি আরবের সর্বোচ্চ ভবনে হাউছি হামলা : Daily Naya Diganta ( দৈনিক নয়া দিগন্ত )](https://www.dailynayadiganta.com/post/asia/1070986) — *GDELT/dailynayadiganta.com*
+
+### Paraguay (1)
+- [El Ejército de EEUU mantiene su presión sobre el régimen de Irán con dos portaaviones en Medio Oriente](https://www.adndigital.com.py/el-ejercito-de-eeuu-mantiene-su-presion-sobre-el-regimen-de-iran-con-dos-portaaviones-en-medio-oriente/) — *GDELT/adndigital.com.py*
+
+### Yemen (1)
+- [برنامج أممي يطلق مشروعاً لإستعادة خدمات النظافة في مدينة تعز](https://www.almontasaf.net/news153199.html) — *GDELT/almontasaf.net*
+
+### Turkey (1)
+- [Galatasarayda 40 milyon dolarlık borç krizi ! Dursun Özbekten TMSF hamlesi](https://ajansspor.com/haber/galatasarayda-40-milyon-dolarlik-borc-krizi-dursun-ozbekten-tmsf-hamlesi-738979) — *GDELT/ajansspor.com*
 
 ---
 *No LLM key set — this is the free grouped digest. Set `ANTHROPIC_API_KEY` for a synthesized brief.*
